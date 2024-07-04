@@ -61,9 +61,11 @@ class ChatPDF:
 if __name__ == "__main__":
 
     myChat = ChatPDF()
-    myChat.ingest('/Users/syran/Documents/GitHub/ai/data/duckdb-docs.pdf')
-    myChat.ask(
+    myChat.ingest('../data/duckdb-docs.pdf')
+    result = myChat.ask(
         """
-        What is the difference between a table and a view?
+        How to connect to a postgres database?
         """
     )
+
+    print(result)
