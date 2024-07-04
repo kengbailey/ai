@@ -1,0 +1,5 @@
+langchain==0.2.6
+langchain_community==0.2.6
+fastembed
+pypdf
+chromadb
