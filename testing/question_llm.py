@@ -7,7 +7,7 @@ from nltk.tokenize import sent_tokenize
 import nltk
 import re
 
-
+import duckdb
 
 nltk.download("punkt")
 
@@ -152,14 +152,42 @@ def query_llm(prompt, model):
     )
     return chat_completion.choices[0].message.content
 
+def insert_llm_result(question, answer, model, article_name, chunk_length, chunk_overlap, embedding_model, prompt):
+    cursor.execute("""
+        INSERT INTO llm_results (question, answer, model, article_name, chunk_length, chunk_overlap, embedding_model, prompt)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+    """, (question, answer, model, article_name, chunk_length, chunk_overlap, embedding_model, prompt))    
+
 
 if __name__ == "__main__":
+
+    #### DATABASE SETUP
+    ##################
+    conn = duckdb.connect('llm_testing.duckdb')
+    cursor = conn.cursor()
+
+    cursor.execute("""
+    CREATE TABLE IF NOT EXISTS llm_results (
+        id INTEGER PRIMARY KEY,
+        question TEXT,
+        answer TEXT,
+        model TEXT,
+        article_name TEXT,
+        chunk_length INTEGER,
+        chunk_overlap INTEGER,
+        embedding_model TEXT,
+        prompt TEXT
+    )
+    """)
+
+
 
     #### SETUP
     ##########
     article_name = ""
     chunk_length = 1000
     chunk_overlap = 100
+    embedding_model = ""
 
     # Ingest data
     text = ingest_data_wikipedia(article_name)
@@ -191,6 +219,7 @@ if __name__ == "__main__":
     llm_result = query_llm(prompt)
 
     # log results --> question, answer, model, article_name,  chunk_length, chunk_overlap, embedding_model, prompt
-
+    insert_llm_result(question, llm_result, model, article_name, chunk_length, chunk_overlap, embedding_model, prompt)
 
     # fin 
+    print("DONE!")
