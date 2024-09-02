@@ -1,0 +1,32 @@
+
+Things we want to do
+
+1. Submit text to a large model and ask questions we can ask of the text
+- the goal is to use a large model to find needles in the hackstack 
+- then we can use a lesser model to answer questions about the hackstack
+- this will be nice for testing the embedding models in ollama
+
+2. We want to test the various embedding models in ollama 
+- we have dimensions from 384 to 1024
+- keeping everything the same, we want to see how well the various models handle the questions
+
+3. We want to have some structure to how we are recording this information
+- we may want to use a database, but that may impede the speed at which we work. 
+- we'll create the structure and then we can use the after we've identified all the variables to capture
+
+4. We want to 
+
+
+
+Notes
+- store the various models in separate tables 
+- then we need to change the model to a new one each time
+- let's see exactly how this will change over
+
+
+LLM Embedding testing
+- keeping data, question and model static
+- get the embedding of several questions and the embedding query result for each question. 
+- look at distance between the embeddings of the query and the embeddings of the answers.
+- compare and contrast the differences between several models 
+
