@@ -1,0 +1,2726 @@
+{
+ "_type": "album",
+ "api_path": "/albums/122065",
+ "comment_count": 4,
+ "cover_art_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+ "custom_header_image_url": null,
+ "description_preview": "Barter 6 is Young Thug\u2019s debut solo mixtape under 300 Entertainment. The project was released on April 17th, 2015 \u2013 the same date as Thug\u2019s mom, Mama Duck\u2019s, birthday.\n\nThe mixtape was originally titled \u201cCarter 6\u201d as a spiritual successor to his idol Lil Wayne\u2019s Carter series, but 3 days before its release, Thug swapped the \u2018C\u2019 for a \u2018B\u2019 \u2013 a true reflection of both his and Wayne\u2019s Blood ties. (Plus the idea of a lawsuit was probably not appealing.)\n\nNo matter how many times Young Thug himself clarified that he was just paying homage to his idol with the title of this mixtape, blogs using clickbait headlines were able to stir up enough controversy about it to cause beef between Wayne and Thug, which all boiled down to a simple miscommunication. And contrary to popular belief at the time of its release, the tape was not released under Birdman\u2019s Cash Money Records, but on Lyor Cohen\u2019s 300 Entertainment, distributed by Atlantic Records.\n\nThe record was met with extremely positive reception by critics, who praised Thug\u2019s ability to create something unique and fresh in a genre crying out for change. The production, mainly handled by Wheezy and London On Da Track, was unique, while stylistically still adhering to trap at its roots. However, Thug\u2019s unique approach to crafting a song ensured this record sounded like nothing else on the market. His gift for melody shines through, making this sound truly innovative, despite comparisons to Future and Lil Wayne, whose styles Young Thug built upon and created a whole new sound for this project.",
+ "full_title": "Barter 6 by Young Thug",
+ "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+ "id": 122065,
+ "lock_state": "editable",
+ "name": "Barter 6",
+ "name_with_artist": "Barter 6 (artist: Young Thug)",
+ "pyongs_count": 11,
+ "release_date": "2015-04-17",
+ "release_date_components": {
+  "year": 2015,
+  "month": 4,
+  "day": 17
+ },
+ "release_date_for_display": "April 17, 2015",
+ "tracking_paths": {
+  "aggregate": "/albums/Young-thug/Barter-6",
+  "concurrent": "/albums/Young-thug/Barter-6"
+ },
+ "url": "https://genius.com/albums/Young-thug/Barter-6",
+ "current_user_metadata": {
+  "permissions": [
+   "create_comment"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "destroy",
+   "pyong",
+   "lock",
+   "super_lock",
+   "unlock",
+   "sort_songs",
+   "see_short_id",
+   "create_question"
+  ],
+  "interactions": {
+   "pyong": false
+  }
+ },
+ "song_pageviews": 4553762,
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/20503",
+  "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+  "id": 20503,
+  "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+  "index_character": "y",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Young Thug",
+  "slug": "Young-thug",
+  "url": "https://genius.com/artists/Young-thug"
+ },
+ "cover_arts": [
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/122065",
+   "id": 29568,
+   "image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+   "thumbnail_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+   "url": "https://genius.com/album_cover_arts/29568",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 282633,
+  "annotator_login": "gone_622x_6e3a",
+  "api_path": "/referents/7590884",
+  "classification": "accepted",
+  "fragment": "Barter 6",
+  "id": 7590884,
+  "ios_app_url": "genius://referents/7590884",
+  "is_description": true,
+  "is_image": false,
+  "path": "/7590884/Barter-6/Barter-6",
+  "range": {
+   "content": "Barter 6"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7590884/Barter-6/Barter-6",
+  "verified_annotator_ids": [],
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "add_pinned_annotation_to",
+    "add_community_annotation_to"
+   ],
+   "relationships": {}
+  },
+  "tracking_paths": {
+   "aggregate": "/7590884/Barter-6/Barter-6",
+   "concurrent": "/albums/Young-thug/Barter-6"
+  },
+  "twitter_share_message": "\u201cBarter 6 is Young Thug\u2019s debut solo mixtape under 300 Entertainment. The project was released on\u2026\u201d \u2014@Genius",
+  "annotatable": {
+   "_type": "album",
+   "api_path": "/albums/122065",
+   "context": "Young Thug",
+   "id": 122065,
+   "image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+   "link_title": "Barter 6",
+   "title": "Barter 6",
+   "type": "Album",
+   "url": "https://genius.com/albums/Young-thug/Barter-6"
+  },
+  "annotations": [
+   {
+    "_type": "annotation",
+    "api_path": "/annotations/7590884",
+    "being_created": false,
+    "body": {
+     "plain": "Barter 6 is Young Thug\u2019s debut solo mixtape under 300 Entertainment. The project was released on April 17th, 2015 \u2013 the same date as Thug\u2019s mom, Mama Duck\u2019s, birthday.\n\nThe mixtape was originally titled \u201cCarter 6\u201d as a spiritual successor to his idol Lil Wayne\u2019s Carter series, but 3 days before its release, Thug swapped the \u2018C\u2019 for a \u2018B\u2019 \u2013 a true reflection of both his and Wayne\u2019s Blood ties. (Plus the idea of a lawsuit was probably not appealing.)\n\nNo matter how many times Young Thug himself clarified that he was just paying homage to his idol with the title of this mixtape, blogs using clickbait headlines were able to stir up enough controversy about it to cause beef between Wayne and Thug, which all boiled down to a simple miscommunication. And contrary to popular belief at the time of its release, the tape was not released under Birdman\u2019s Cash Money Records, but on Lyor Cohen\u2019s 300 Entertainment, distributed by Atlantic Records.\n\nThe record was met with extremely positive reception by critics, who praised Thug\u2019s ability to create something unique and fresh in a genre crying out for change. The production, mainly handled by Wheezy and London On Da Track, was unique, while stylistically still adhering to trap at its roots. However, Thug\u2019s unique approach to crafting a song ensured this record sounded like nothing else on the market. His gift for melody shines through, making this sound truly innovative, despite comparisons to Future and Lil Wayne, whose styles Young Thug built upon and created a whole new sound for this project."
+    },
+    "comment_count": 0,
+    "community": true,
+    "created_at": 1429197755,
+    "custom_preview": null,
+    "deleted": false,
+    "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/7590884/standalone_embed'><a href='https://genius.com/7590884/Barter-6/Barter-6'>Barter 6</a><br><a href='https://genius.com/albums/Young-thug/Barter-6'>&#8213; Barter 6</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+    "has_voters": true,
+    "id": 7590884,
+    "needs_exegesis": false,
+    "pinned": false,
+    "proposed_edit_count": 0,
+    "pyongs_count": null,
+    "referent_id": 7590884,
+    "share_url": "https://genius.com/7590884",
+    "source": null,
+    "state": "accepted",
+    "twitter_share_message": "\u201cBarter 6 is Young Thug\u2019s debut solo mixtape under 300 Entertainment. The project was released on April 1\u2026\u201d \u2014@Genius",
+    "url": "https://genius.com/7590884/Barter-6/Barter-6",
+    "verified": false,
+    "votes_total": 82,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "accepted_by": {
+     "_type": "user",
+     "about_me_summary": "",
+     "api_path": "/users/104344",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+     "human_readable_role_for_display": "Staff",
+     "id": 104344,
+     "iq": 3154085,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "streetlights",
+     "name": "\u200bstreetlights",
+     "role_for_display": "staff",
+     "url": "https://genius.com/streetlights",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "authors": [
+     {
+      "_type": "user_attribution",
+      "attribution": 0.6297709923664122,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "",
+       "api_path": "/users/43360",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/31ed7a105dce09ba271ab868c9fda68a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/31ed7a105dce09ba271ab868c9fda68a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/31ed7a105dce09ba271ab868c9fda68a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/31ed7a105dce09ba271ab868c9fda68a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/31ed7a105dce09ba271ab868c9fda68a",
+       "human_readable_role_for_display": "Editor",
+       "id": 43360,
+       "iq": 54846,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "sabsad",
+       "name": "sabsad",
+       "role_for_display": "editor",
+       "url": "https://genius.com/sabsad",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "_type": "user_attribution",
+      "attribution": 0.3549618320610687,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "",
+       "api_path": "/users/1299009",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1724948196",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1724948196",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1724948196",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1299009,
+       "iq": 818977,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "gone_rubl_3383",
+       "name": "gone_rubl_3383",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/gone_rubl_3383",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "_type": "user_attribution",
+      "attribution": 0.015267175572519085,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "",
+       "api_path": "/users/282633",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1724948196",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1724948196",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1724948196",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+       "human_readable_role_for_display": "Contributor",
+       "id": 282633,
+       "iq": 498814,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "gone_622x_6e3a",
+       "name": "Gone_622x_6e3a",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/gone_622x_6e3a",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "created_by": {
+     "_type": "user",
+     "about_me_summary": "",
+     "api_path": "/users/282633",
+     "avatar": {
+      "tiny": {
+       "url": "https://assets.genius.com/images/default_avatar_16.png?1724948196",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://assets.genius.com/images/default_avatar_32.png?1724948196",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://assets.genius.com/images/default_avatar_100.png?1724948196",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "human_readable_role_for_display": "Contributor",
+     "id": 282633,
+     "iq": 498814,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "gone_622x_6e3a",
+     "name": "Gone_622x_6e3a",
+     "role_for_display": "contributor",
+     "url": "https://genius.com/gone_622x_6e3a",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "rejection_comment": null,
+    "top_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "performance_groups": [
+  {
+   "label": "Executive Producer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    }
+   ]
+  }
+ ],
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/20503",
+   "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+   "id": 20503,
+   "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+   "index_character": "y",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Young Thug",
+   "slug": "Young-thug",
+   "url": "https://genius.com/artists/Young-thug"
+  }
+ ],
+ "song_performances": [
+  {
+   "label": "Featuring",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/86",
+     "header_image_url": "https://images.genius.com/d58a4d380232a1639d2c63675f5b8083.804x552x1.jpg",
+     "id": 86,
+     "image_url": "https://images.genius.com/ac01f34b6b053df6250f06a86262eaa6.719x719x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Birdman",
+     "slug": "Birdman",
+     "url": "https://genius.com/artists/Birdman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/931",
+     "header_image_url": "https://images.genius.com/3bacfd8e8c828bdc7851e1617e4b2d0f.1000x667x1.jpg",
+     "id": 931,
+     "image_url": "https://images.genius.com/681f4bb9ff46a631f887773f54f74156.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Boosie Badazz",
+     "slug": "Boosie-badazz",
+     "url": "https://genius.com/artists/Boosie-badazz",
+     "iq": 545
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/13616",
+     "header_image_url": "https://images.genius.com/0a9bf7ec5d8bf6e0897167bac7d12e78.1000x1000x1.png",
+     "id": 13616,
+     "image_url": "https://images.genius.com/0a9bf7ec5d8bf6e0897167bac7d12e78.1000x1000x1.png",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jacquees",
+     "slug": "Jacquees",
+     "url": "https://genius.com/artists/Jacquees",
+     "iq": 2791
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/585266",
+     "header_image_url": "https://images.genius.com/ef2599613ec72ec48237f705405a7f9c.483x483x1.png",
+     "id": 585266,
+     "image_url": "https://images.genius.com/57e1b9f4e478659e97e7ff959d0450c6.640x640x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lil Duke",
+     "slug": "Lil-duke",
+     "url": "https://genius.com/artists/Lil-duke"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/85",
+     "header_image_url": "https://images.genius.com/9a7118eb0b1e83879cdb4b7855158d53.320x180x1.jpg",
+     "id": 85,
+     "image_url": "https://images.genius.com/6f1e66b5da6bb21cceee3cee5fb5dab5.272x272x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "T.I.",
+     "slug": "Ti",
+     "url": "https://genius.com/artists/Ti",
+     "iq": 7727
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/350112",
+     "header_image_url": "https://images.genius.com/d4037561f852102e6b5d79a760448012.1000x210x1.jpg",
+     "id": 350112,
+     "image_url": "https://images.genius.com/aeacb8f28dad36ff2f1b346e71771dcd.640x640x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yak Gotti",
+     "slug": "Yak-gotti",
+     "url": "https://genius.com/artists/Yak-gotti"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/22437",
+     "header_image_url": "https://images.genius.com/2c4f9201b01541665ec219bbc9542482.850x1000x1.jpg",
+     "id": 22437,
+     "image_url": "https://images.genius.com/529bd775075870ed3e750905f06f0565.1000x1000x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Young Dolph",
+     "slug": "Young-dolph",
+     "url": "https://genius.com/artists/Young-dolph",
+     "iq": 1454
+    }
+   ]
+  },
+  {
+   "label": "Producers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1539180",
+     "header_image_url": "https://images.genius.com/9cd1c7bd9016da61525f5dc4837c2c92.1000x668x1.jpg",
+     "id": 1539180,
+     "image_url": "https://images.genius.com/38bc61c1ce04e8d1bf2bbfa83ed915e1.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arsenio Archer",
+     "slug": "Arsenio-archer",
+     "url": "https://genius.com/artists/Arsenio-archer"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/400828",
+     "header_image_url": "https://images.genius.com/36f4f48791e44c985e7b23affa488a48.520x520x1.jpg",
+     "id": 400828,
+     "image_url": "https://images.genius.com/36f4f48791e44c985e7b23affa488a48.520x520x1.jpg",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kip Hilson",
+     "slug": "Kip-hilson",
+     "url": "https://genius.com/artists/Kip-hilson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/44575",
+     "header_image_url": "https://images.genius.com/fcb14975af51a27a0ffb278a7524c81d.400x400x1.jpg",
+     "id": 44575,
+     "image_url": "https://images.genius.com/fcb14975af51a27a0ffb278a7524c81d.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "London on da Track",
+     "slug": "London-on-da-track",
+     "url": "https://genius.com/artists/London-on-da-track",
+     "iq": 307
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/37246",
+     "header_image_url": "https://images.genius.com/f53d53b18b9ff21a09b98c42aca64afb.486x483x1.png",
+     "id": 37246,
+     "image_url": "https://images.genius.com/a601add1e00e8cc999005694ec1c30de.483x483x1.png",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ricky Racks",
+     "slug": "Ricky-racks",
+     "url": "https://genius.com/artists/Ricky-racks"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/339721",
+     "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+     "id": 339721,
+     "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Wheezy",
+     "slug": "Wheezy",
+     "url": "https://genius.com/artists/Wheezy"
+    }
+   ]
+  },
+  {
+   "label": "Writers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/423108",
+     "header_image_url": "https://images.genius.com/7fc2462e25910c27d124f13b61ec738d.500x300x1.jpg",
+     "id": 423108,
+     "image_url": "https://images.genius.com/c729e7dc6051bfd7f139d55c2dfbf4fa.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Allee Willis",
+     "slug": "Allee-willis",
+     "url": "https://genius.com/artists/Allee-willis"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/649723",
+     "header_image_url": "https://images.genius.com/b7c5469dea8a60de645225c5af6ac477.700x450x1.jpg",
+     "id": 649723,
+     "image_url": "https://images.genius.com/77ffd06ee22bdb8110868ffcbb38d5b9.450x450x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Al McKay",
+     "slug": "Al-mckay",
+     "url": "https://genius.com/artists/Al-mckay"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1539180",
+     "header_image_url": "https://images.genius.com/9cd1c7bd9016da61525f5dc4837c2c92.1000x668x1.jpg",
+     "id": 1539180,
+     "image_url": "https://images.genius.com/38bc61c1ce04e8d1bf2bbfa83ed915e1.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arsenio Archer",
+     "slug": "Arsenio-archer",
+     "url": "https://genius.com/artists/Arsenio-archer"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/86",
+     "header_image_url": "https://images.genius.com/d58a4d380232a1639d2c63675f5b8083.804x552x1.jpg",
+     "id": 86,
+     "image_url": "https://images.genius.com/ac01f34b6b053df6250f06a86262eaa6.719x719x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Birdman",
+     "slug": "Birdman",
+     "url": "https://genius.com/artists/Birdman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/931",
+     "header_image_url": "https://images.genius.com/3bacfd8e8c828bdc7851e1617e4b2d0f.1000x667x1.jpg",
+     "id": 931,
+     "image_url": "https://images.genius.com/681f4bb9ff46a631f887773f54f74156.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Boosie Badazz",
+     "slug": "Boosie-badazz",
+     "url": "https://genius.com/artists/Boosie-badazz",
+     "iq": 545
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/13616",
+     "header_image_url": "https://images.genius.com/0a9bf7ec5d8bf6e0897167bac7d12e78.1000x1000x1.png",
+     "id": 13616,
+     "image_url": "https://images.genius.com/0a9bf7ec5d8bf6e0897167bac7d12e78.1000x1000x1.png",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jacquees",
+     "slug": "Jacquees",
+     "url": "https://genius.com/artists/Jacquees",
+     "iq": 2791
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/79",
+     "header_image_url": "https://images.genius.com/f6bec8a3fda2350c3488d92d5f86113c.960x540x1.jpg",
+     "id": 79,
+     "image_url": "https://images.genius.com/839c87e0c08bd8c525eec62568fa85b2.1000x1000x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jim Jones",
+     "slug": "Jim-jones",
+     "url": "https://genius.com/artists/Jim-jones"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/400828",
+     "header_image_url": "https://images.genius.com/36f4f48791e44c985e7b23affa488a48.520x520x1.jpg",
+     "id": 400828,
+     "image_url": "https://images.genius.com/36f4f48791e44c985e7b23affa488a48.520x520x1.jpg",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kip Hilson",
+     "slug": "Kip-hilson",
+     "url": "https://genius.com/artists/Kip-hilson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/585266",
+     "header_image_url": "https://images.genius.com/ef2599613ec72ec48237f705405a7f9c.483x483x1.png",
+     "id": 585266,
+     "image_url": "https://images.genius.com/57e1b9f4e478659e97e7ff959d0450c6.640x640x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lil Duke",
+     "slug": "Lil-duke",
+     "url": "https://genius.com/artists/Lil-duke"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/44575",
+     "header_image_url": "https://images.genius.com/fcb14975af51a27a0ffb278a7524c81d.400x400x1.jpg",
+     "id": 44575,
+     "image_url": "https://images.genius.com/fcb14975af51a27a0ffb278a7524c81d.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "London on da Track",
+     "slug": "London-on-da-track",
+     "url": "https://genius.com/artists/London-on-da-track",
+     "iq": 307
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/69897",
+     "header_image_url": "https://images.genius.com/f05a6edd334fefae57f8daa49d1673d5.1000x750x1.jpg",
+     "id": 69897,
+     "image_url": "https://images.genius.com/fbe398c547f72b4083d37461a2ba5d9c.508x508x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maurice White",
+     "slug": "Maurice-white",
+     "url": "https://genius.com/artists/Maurice-white"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/37246",
+     "header_image_url": "https://images.genius.com/f53d53b18b9ff21a09b98c42aca64afb.486x483x1.png",
+     "id": 37246,
+     "image_url": "https://images.genius.com/a601add1e00e8cc999005694ec1c30de.483x483x1.png",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ricky Racks",
+     "slug": "Ricky-racks",
+     "url": "https://genius.com/artists/Ricky-racks"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/85",
+     "header_image_url": "https://images.genius.com/9a7118eb0b1e83879cdb4b7855158d53.320x180x1.jpg",
+     "id": 85,
+     "image_url": "https://images.genius.com/6f1e66b5da6bb21cceee3cee5fb5dab5.272x272x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "T.I.",
+     "slug": "Ti",
+     "url": "https://genius.com/artists/Ti",
+     "iq": 7727
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/339721",
+     "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+     "id": 339721,
+     "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Wheezy",
+     "slug": "Wheezy",
+     "url": "https://genius.com/artists/Wheezy"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/350112",
+     "header_image_url": "https://images.genius.com/d4037561f852102e6b5d79a760448012.1000x210x1.jpg",
+     "id": 350112,
+     "image_url": "https://images.genius.com/aeacb8f28dad36ff2f1b346e71771dcd.640x640x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yak Gotti",
+     "slug": "Yak-gotti",
+     "url": "https://genius.com/artists/Yak-gotti"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/22437",
+     "header_image_url": "https://images.genius.com/2c4f9201b01541665ec219bbc9542482.850x1000x1.jpg",
+     "id": 22437,
+     "image_url": "https://images.genius.com/529bd775075870ed3e750905f06f0565.1000x1000x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Young Dolph",
+     "slug": "Young-dolph",
+     "url": "https://genius.com/artists/Young-dolph",
+     "iq": 1454
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    }
+   ]
+  },
+  {
+   "label": "Co-Producer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1539180",
+     "header_image_url": "https://images.genius.com/9cd1c7bd9016da61525f5dc4837c2c92.1000x668x1.jpg",
+     "id": 1539180,
+     "image_url": "https://images.genius.com/38bc61c1ce04e8d1bf2bbfa83ed915e1.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arsenio Archer",
+     "slug": "Arsenio-archer",
+     "url": "https://genius.com/artists/Arsenio-archer"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/540920",
+     "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "id": 540920,
+     "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "300 Entertainment",
+     "slug": "300-entertainment",
+     "url": "https://genius.com/artists/300-entertainment",
+     "iq": 944
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/68978",
+     "header_image_url": "https://images.genius.com/5fb8d27c10b1cc7a7678d21943a03feb.650x552x31.gif",
+     "id": 68978,
+     "image_url": "https://images.genius.com/ded045557ddf5991ba4134151023e614.315x315x1.png",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Atlantic Records",
+     "slug": "Atlantic-records",
+     "url": "https://genius.com/artists/Atlantic-records"
+    }
+   ]
+  },
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/540920",
+     "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "id": 540920,
+     "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "300 Entertainment",
+     "slug": "300-entertainment",
+     "url": "https://genius.com/artists/300-entertainment",
+     "iq": 944
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "slug": "Warner-music-group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/540920",
+     "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "id": 540920,
+     "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "300 Entertainment",
+     "slug": "300-entertainment",
+     "url": "https://genius.com/artists/300-entertainment",
+     "iq": 944
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/68978",
+     "header_image_url": "https://images.genius.com/5fb8d27c10b1cc7a7678d21943a03feb.650x552x31.gif",
+     "id": 68978,
+     "image_url": "https://images.genius.com/ded045557ddf5991ba4134151023e614.315x315x1.png",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Atlantic Records",
+     "slug": "Atlantic-records",
+     "url": "https://genius.com/artists/Atlantic-records"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/96082",
+     "header_image_url": "https://images.genius.com/c96f842a973c73ae09a90eceb277c918.180x302x1.png",
+     "id": 96082,
+     "image_url": "https://images.genius.com/c39c358b9b91d34df5faf242b8574548.180x180x1.png",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elektra Records",
+     "slug": "Elektra-records",
+     "url": "https://genius.com/artists/Elektra-records"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1903287",
+     "header_image_url": "https://images.genius.com/5a3700e0e92f2f3efcd243fbc7690f5f.638x212x1.png",
+     "id": 1903287,
+     "image_url": "https://images.genius.com/4c86e1308ab724033a42aa9fcc3b86e8.500x500x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paper Route EMPIRE",
+     "slug": "Paper-route-empire",
+     "url": "https://genius.com/artists/Paper-route-empire"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1156486",
+     "header_image_url": "https://images.genius.com/02748991d2c15b2e25f515b67979ee18.1000x562x1.jpg",
+     "id": 1156486,
+     "image_url": "https://images.genius.com/c39a6ad898feb6d5af29131cdb26dcdf.399x399x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Stoner Life",
+     "slug": "Young-stoner-life",
+     "url": "https://genius.com/artists/Young-stoner-life"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/643992",
+     "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+     "id": 643992,
+     "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joe LaPorta",
+     "slug": "Joe-laporta",
+     "url": "https://genius.com/artists/Joe-laporta"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/684930",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 684930,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Horesco",
+     "slug": "John-horesco",
+     "url": "https://genius.com/artists/John-horesco"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/667834",
+     "header_image_url": "https://images.genius.com/1c4a1d93809fdbf4b890966e74c261d2.920x614x1.jpg",
+     "id": 667834,
+     "image_url": "https://images.genius.com/57fe8e275b1a6ce1a9206a2acb16bec7.414x414x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Tumay",
+     "slug": "Alex-tumay",
+     "url": "https://genius.com/artists/Alex-tumay"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/648547",
+     "header_image_url": "https://images.genius.com/0e63ac707a0662fe9f82eb80b7f09be2.171x171x1.jpg",
+     "id": 648547,
+     "image_url": "https://images.genius.com/0e63ac707a0662fe9f82eb80b7f09be2.171x171x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Miles Walker",
+     "slug": "Miles-walker",
+     "url": "https://genius.com/artists/Miles-walker"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/540920",
+     "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "id": 540920,
+     "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "300 Entertainment",
+     "slug": "300-entertainment",
+     "url": "https://genius.com/artists/300-entertainment",
+     "iq": 944
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/68978",
+     "header_image_url": "https://images.genius.com/5fb8d27c10b1cc7a7678d21943a03feb.650x552x31.gif",
+     "id": 68978,
+     "image_url": "https://images.genius.com/ded045557ddf5991ba4134151023e614.315x315x1.png",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Atlantic Records",
+     "slug": "Atlantic-records",
+     "url": "https://genius.com/artists/Atlantic-records"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2262253",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2262253,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1870 Publishing",
+     "slug": "1870-publishing",
+     "url": "https://genius.com/artists/1870-publishing"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2234531",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2234531,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "0",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "300 Rainwater Music",
+     "slug": "300-rainwater-music",
+     "url": "https://genius.com/artists/300-rainwater-music"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2043712",
+     "header_image_url": "https://images.genius.com/7829647ac99a95bd5e649ddda25b5af0.1000x333x1.jpg",
+     "id": 2043712,
+     "image_url": "https://images.genius.com/2394f7310fca3371091bef948bff07b3.828x828x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Administration MP",
+     "slug": "The-administration-mp",
+     "url": "https://genius.com/artists/The-administration-mp"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2095022",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2095022,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Annuity Songs",
+     "slug": "Annuity-songs",
+     "url": "https://genius.com/artists/Annuity-songs"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1938081",
+     "header_image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+     "id": 1938081,
+     "image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Artist Publishing Group",
+     "slug": "Artist-publishing-group",
+     "url": "https://genius.com/artists/Artist-publishing-group"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/68978",
+     "header_image_url": "https://images.genius.com/5fb8d27c10b1cc7a7678d21943a03feb.650x552x31.gif",
+     "id": 68978,
+     "image_url": "https://images.genius.com/ded045557ddf5991ba4134151023e614.315x315x1.png",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Atlantic Records",
+     "slug": "Atlantic-records",
+     "url": "https://genius.com/artists/Atlantic-records"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2252341",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2252341,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bay of Sharks",
+     "slug": "Bay-of-sharks",
+     "url": "https://genius.com/artists/Bay-of-sharks"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2264224",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2264224,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Boosie Badazz Publishing",
+     "slug": "Boosie-badazz-publishing",
+     "url": "https://genius.com/artists/Boosie-badazz-publishing"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1693537",
+     "header_image_url": "https://images.genius.com/dc605912fe0affdfb39a3d5d989abafd.636x421x1.jpg",
+     "id": 1693537,
+     "image_url": "https://images.genius.com/f79214e3be772e51d9f43926005e25df.512x512x1.png",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Create Music Group",
+     "slug": "Create-music-group",
+     "url": "https://genius.com/artists/Create-music-group"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2264229",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2264229,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Creative Elements",
+     "slug": "Creative-elements",
+     "url": "https://genius.com/artists/Creative-elements"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1166417",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 1166417,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Deyjah\u2019s Daddy Muzik",
+     "slug": "Deyjahs-daddy-muzik",
+     "url": "https://genius.com/artists/Deyjahs-daddy-muzik"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/648041",
+     "header_image_url": "https://images.genius.com/db97ab2a66fd8f2e1ff550b403f37e84.240x240x1.jpg",
+     "id": 648041,
+     "image_url": "https://images.genius.com/03347dd9a7ca1b6e653241d7b9c9ec8b.240x240x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI Music Publishing",
+     "slug": "Emi-music-publishing",
+     "url": "https://genius.com/artists/Emi-music-publishing"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1067746",
+     "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+     "id": 1067746,
+     "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMPIRE",
+     "slug": "Empire",
+     "url": "https://genius.com/artists/Empire"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2281048",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2281048,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "i",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Imani Knows Hits",
+     "slug": "Imani-knows-hits",
+     "url": "https://genius.com/artists/Imani-knows-hits"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2234281",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2234281,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "i",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Innerfortune Publishing 1492",
+     "slug": "Innerfortune-publishing-1492",
+     "url": "https://genius.com/artists/Innerfortune-publishing-1492"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/995508",
+     "header_image_url": "https://images.genius.com/081d60f2338084c6cc3d765188107246.525x525x1.jpg",
+     "id": 995508,
+     "image_url": "https://images.genius.com/db53af5c3b63f9174272e15ab2880724.525x525x1.jpg",
+     "index_character": "i",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Irving Music",
+     "slug": "Irving-music",
+     "url": "https://genius.com/artists/Irving-music"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2264234",
+     "header_image_url": "https://images.genius.com/31bbe5eb758bfbc18cf7e926b28bc6dd.474x474x1.jpg",
+     "id": 2264234,
+     "image_url": "https://images.genius.com/31bbe5eb758bfbc18cf7e926b28bc6dd.474x474x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jacquees Publishing",
+     "slug": "Jacquees-publishing",
+     "url": "https://genius.com/artists/Jacquees-publishing"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "slug": "Kobalt-music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2235779",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2235779,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "London on da Track Publishing",
+     "slug": "London-on-da-track-publishing",
+     "url": "https://genius.com/artists/London-on-da-track-publishing"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1179044",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 1179044,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Manny\u2019s Ear To The Streets",
+     "slug": "Mannys-ear-to-the-streets",
+     "url": "https://genius.com/artists/Mannys-ear-to-the-streets"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1013903",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 1013903,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Money Mack Music",
+     "slug": "Money-mack-music",
+     "url": "https://genius.com/artists/Money-mack-music"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1100826",
+     "header_image_url": "https://images.genius.com/ead8e0ff35bebd70e405e5dedbf64dee.1000x338x1.jpg",
+     "id": 1100826,
+     "image_url": "https://images.genius.com/33b239bfa439b9729eebf2df36a4fe62.585x585x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "New World Music",
+     "slug": "New-world-music",
+     "url": "https://genius.com/artists/New-world-music"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2582620",
+     "header_image_url": "https://images.genius.com/4400c07d2c9151dc94c0e66906b79733.240x100x1.jpg",
+     "id": 2582620,
+     "image_url": "https://images.genius.com/302fce72012cb280680638ed684f0a5b.100x100x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "NirvanaDigitalPublishing",
+     "slug": "Nirvanadigitalpublishing",
+     "url": "https://genius.com/artists/Nirvanadigitalpublishing"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1544670",
+     "header_image_url": "https://images.genius.com/63ea161392ca63c9f79015c93ad5d2f5.200x200x1.png",
+     "id": 1544670,
+     "image_url": "https://images.genius.com/63ea161392ca63c9f79015c93ad5d2f5.200x200x1.png",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Reservoir Media",
+     "slug": "Reservoir-media",
+     "url": "https://genius.com/artists/Reservoir-media"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1710098",
+     "header_image_url": "https://images.genius.com/c3dad93b4d939b50666ecfb4d2740936.1000x1000x1.png",
+     "id": 1710098,
+     "image_url": "https://images.genius.com/c3dad93b4d939b50666ecfb4d2740936.1000x1000x1.png",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ROBA Music Publishing",
+     "slug": "Roba-music-publishing",
+     "url": "https://genius.com/artists/Roba-music-publishing"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/648508",
+     "header_image_url": "https://images.genius.com/146f585e8c78f4bf0e2da7d55f08d6cd.375x375x1.jpg",
+     "id": 648508,
+     "image_url": "https://images.genius.com/146f585e8c78f4bf0e2da7d55f08d6cd.375x375x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rondor Music",
+     "slug": "Rondor-music",
+     "url": "https://genius.com/artists/Rondor-music"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1650066",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 1650066,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SOLAR Music Rights Management",
+     "slug": "Solar-music-rights-management",
+     "url": "https://genius.com/artists/Solar-music-rights-management"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/fe7640006e0633a2811c06e8846c3ccd.1000x225x1.png",
+     "id": 88331,
+     "image_url": "https://images.genius.com/ae262a68f8c408fce434bacc3c815cb5.1000x1000x1.png",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "slug": "Sony-music-entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2264235",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2264235,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steel Chest Music",
+     "slug": "Steel-chest-music",
+     "url": "https://genius.com/artists/Steel-chest-music"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2263154",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2263154,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Trill Productions",
+     "slug": "Trill-productions",
+     "url": "https://genius.com/artists/Trill-productions"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1046316",
+     "header_image_url": "https://images.genius.com/23b073c0728a919485c9971f5031faed.500x500x1.jpg",
+     "id": 1046316,
+     "image_url": "https://images.genius.com/af896900f10aa68a1f4e7f02d7df1a49.900x900x1.jpg",
+     "index_character": "u",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ultra Records",
+     "slug": "Ultra-records",
+     "url": "https://genius.com/artists/Ultra-records"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "index_character": "u",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "slug": "Universal-music-group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1112163",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 1112163,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "u",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Urban Angels Music Group",
+     "slug": "Urban-angels-music-group",
+     "url": "https://genius.com/artists/Urban-angels-music-group"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1152704",
+     "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+     "id": 1152704,
+     "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner/Chappell",
+     "slug": "Warner-chappell",
+     "url": "https://genius.com/artists/Warner-chappell"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "slug": "Warner-music-group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/992219",
+     "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+     "id": 992219,
+     "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner-Tamerlane Publishing Corp.",
+     "slug": "Warner-tamerlane-publishing-corp",
+     "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2245365",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "id": 2245365,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1724948196",
+     "index_character": "w",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "WheezyHitMaker",
+     "slug": "Wheezyhitmaker",
+     "url": "https://genius.com/artists/Wheezyhitmaker"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1156486",
+     "header_image_url": "https://images.genius.com/02748991d2c15b2e25f515b67979ee18.1000x562x1.jpg",
+     "id": 1156486,
+     "image_url": "https://images.genius.com/c39a6ad898feb6d5af29131cdb26dcdf.399x399x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Stoner Life",
+     "slug": "Young-stoner-life",
+     "url": "https://genius.com/artists/Young-stoner-life"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/664295",
+     "header_image_url": "https://images.genius.com/e2157cd30f33b52d17df876788cf753e.512x512x1.jpg",
+     "id": 664295,
+     "image_url": "https://images.genius.com/e2157cd30f33b52d17df876788cf753e.512x512x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Be EL Be",
+     "slug": "Be-el-be",
+     "url": "https://genius.com/artists/Be-el-be"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    }
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 26,
+    "api_path": "/songs/760593",
+    "artist_names": "Young Thug (Ft. Birdman)",
+    "full_title": "Constantly Hating by\u00a0Young\u00a0Thug (Ft.\u00a0Birdman)",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 760593,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725259059,
+    "path": "/Young-thug-constantly-hating-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 69,
+    "relationships_index_url": "https://genius.com/Young-thug-constantly-hating-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 374505
+    },
+    "title": "Constantly Hating",
+    "title_with_featured": "Constantly Hating (Ft.\u00a0Birdman)",
+    "updated_by_human_at": 1725259059,
+    "url": "https://genius.com/Young-thug-constantly-hating-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/86",
+      "header_image_url": "https://images.genius.com/d58a4d380232a1639d2c63675f5b8083.804x552x1.jpg",
+      "id": 86,
+      "image_url": "https://images.genius.com/ac01f34b6b053df6250f06a86262eaa6.719x719x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Birdman",
+      "slug": "Birdman",
+      "url": "https://genius.com/artists/Birdman"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "138 ContributorsConstantly Hating Lyrics[Intro: Young Thug]\nPour that shit up fool, it's ours\nHa, monster!\nMan so you ain't gon' pour?\nOh, so you're gonna make a nigga beg you to pour?\nOkay, bool, you dig?\n(Wheezy Beats)\nUh\n\n[Verse 1: Young Thug]\nHopped out my mothafuckin' bed\nHopped in the mothafuckin' coupe (Skrrt)\nPulled up on the Birdman (Brr)\nI'm a beast, I'm a beast, I'm a mobster (Ayy)\nYou got 50 whole bands, you'll be my sponsor (Just for the night)\nThem snakes on the plane, me and Kanye-conda (Anacondas)\nYeah (Them anacondas)\nI might piece him up and let my partner smoke him (Triple cross)\nChuck-E-Cheese him up, I pizza him, I roll him (Cross)\nI'm a gangster, I don't dance, baby, I poke\nRight now, I'm surrounded by some gangsters from Magnolia\nI heard I put it in the spot, yes, sir, she told me\nMy niggas muggin', these niggas YSL only\nI heard my 'Nolia niggas not friendly, like no way\nBut we not friendly either, you know it\nHa!\nYeah, thumbs up\nI've seen more holes than a golf course on Donald Trump's course\nMy bitch a tall blooded horse, nigga, bronco\nAnd if you catch us down bet you're not gon' trunk us (No)\nYou got a body, lil' nigga, we got a ton of 'em (Yeah)\nYou got some Robin's, lil' nigga, we got some Batmans\nI let that choppa go \"blocka, blocka,\" get back, son (Back)\nYou got them MJ's, nigga, I got them Jacksons (Racks)\nYou might also like[Chorus: Young Thug]\nBut really what is it to do\nWhen the whole world constantly hatin' on you?\nPussy niggas hold their nuts, masturbatin' on you\nMeanwhile, the fuckin' federal baitin' on you\nNigga, tell me what you do\nWould you stand up or would you turn to a pussy nigga?\nI got a hundred things to do\nAnd I can stop rappin' but I can't stop stackin' fuckin' figures\n\n[Verse 2: Birdman & Young Thug]\nYeah, I'm from that mothafuckin' 'Nolia, nigga ('Nolia, nigga)\nBirdman'll break a nigga nose, lil' nigga (Nose, lil' nigga, ah)\nYou need to slow your fuckin' roll, lil' nigga (Roll, lil' nigga, Thugger)\nWe created Ks on shoulders, nigga (Shoulders, nigga)\nI'm a scary fuckin' sight, lil' nigga (Sight, lil' nigga, ah)\nWe won a hundred mil' on fights, lil' nigga (Fights, lil' nigga, hey)\nA hundred bands, sure you're right, lil' nigga (Right, lil' nigga)\nI keep some AKs on my flights, lil' nigga (My flights, lil' nigga, I do)\nBirdman Willie B (What?)\nSmoke some stunna blunts, now my eyes Chinese (Chinese)\nHundred K on private flights overseas (Overseas)\nChoppas City, nigga, free BG (BG)\nBentley with the doors all 'round, not a Jeep (Jeep)\nRich nigga shit, smoke two pounds in a week (In a week)\nCan't find a bitch that don't know we them streets (We them streets)\nBitches know that I am Birdman, that's OG, brrat\n[Chorus: Young Thug]\nBut really what is it to do\nWhen the whole world constantly hatin' on you?\nPussy niggas hold their nuts, masturbatin' on you\nMeanwhile the fuckin' federal baitin' on you\nNigga, tell me what you do\nWould you stand up or would you turn to a pussy nigga?\nI got a hundred things to do\nAnd I can stop rappin' but I can't stop stackin' fuckin' figures\n\n[Verse 3: Young Thug]\nNigga, I'm a crack addict\nThought about lettin' them get a cut\nThen I went and snagged at it\nYeah, the new Boosie Badazz at it\nI'ma drop a nigga life, just like a bad habit\nI stick to the ground like a mothafuckin' rug\nI'm a big dog, lil' fuck nigga, you a pup\nLil' bitch, clean your drawers before you think you're a thug\nBefore I be in front your shows, just like your pub\nI ain't even lyin', baby\nI swear to God, I ain't lyin', baby, no\nFirst I'll screw you without these pliers, baby, or\nI might dap you like, \"good try, baby\"\nBig B livin', baby\nThem boys on my left throwin' up C's\nI promise their mama see them this week\nAnd I don't break promises with my D's (Them my dogs)\nI want M's and cheese, mister Mickey D's\nShe know I am a beast, I am so obese (Rawr)\nIn Miami I swear they don't got good weed\nWiz Khalifa can you send me some weed please?\n[Outro: Birdman]\nYeah, overseas, nigga, top floor, clear windows, nigga\nGlass house, drankin' GT, you understand?\nWe in that Red Light District, you understand?\nWe 3 and 1, that mean 3 on me, nigga, you understand me?\nJust livin' the life, boy, ayy, Thug, just a dollar for a 1, nigga\nWe can blow a mil', boy\nRich Gang, YSL, blatt!69Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/761242",
+    "artist_names": "Young Thug (Ft. Lil Duke)",
+    "full_title": "With That by\u00a0Young\u00a0Thug (Ft.\u00a0Lil\u00a0Duke)",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 761242,
+    "instrumental": false,
+    "lyrics_owner_id": 199349,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725260930,
+    "path": "/Young-thug-with-that-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 171,
+    "relationships_index_url": "https://genius.com/Young-thug-with-that-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 949638
+    },
+    "title": "With That",
+    "title_with_featured": "With That (Ft.\u00a0Lil\u00a0Duke)",
+    "updated_by_human_at": 1725260930,
+    "url": "https://genius.com/Young-thug-with-that-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/585266",
+      "header_image_url": "https://images.genius.com/ef2599613ec72ec48237f705405a7f9c.483x483x1.png",
+      "id": 585266,
+      "image_url": "https://images.genius.com/57e1b9f4e478659e97e7ff959d0450c6.640x640x1.jpg",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Duke",
+      "slug": "Lil-duke",
+      "url": "https://genius.com/artists/Lil-duke"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "153 ContributorsWith That Lyrics[Intro: Young Thug & Skooly]\nYeah\nI'm so through with that\nI'm so through with that\n(We got London on da Track)\n\n[Chorus: Young Thug]\nHundred bands, hundred bands dropped on the head of any nigga want it, man (Woo)\nPop me a xanny, I'm fast, I'm so fast, I'm so faster than Sonic, man (Woo)\nTrue the man, true the man, true to my nigga True Religion Buddha man (Woo)\nMy money stack tall as Ludacris afro and I swear I'ma shoot with that (Woo)\nI just hit for nine birds, what I'ma do with that?\nPull up on the curb, then you hop out and be through with that (Ooh)\nI'm so fresh like dish detergent, if you not fresh, you so through with that (So fresh)\nIf you are a nerd, everything here, you not cool with that\n\n[Verse 1: Young Thug]\nYes, you not cool\nNo, you not bool (What?)\nI don't give no damn, I'm not calling you boo (Uh-uh)\nMy bitch, she a jewel (Whoa)\nYou can't prove a point, boy, you know you so doomed (You did)\nYou know you so doomed (Yeah)\nI swear I'm so lost with no clue, don't know what to do (What?)\nOver loud, over loud (Yeah)\nI over loud on these niggas\nAin't know how to milk these cows\nShe made that dick grow, now it's big like a tower\nYow, front pockets filled up with bands, no Bible\nYou might also like[Chorus: Young Thug & Lil Duke]\nHundred bands, hundred bands dropped on the head of any nigga want it, man (Woo)\nPop me a xanny, I'm fast, I'm so fast, I'm so faster than Sonic, man (Woo, woo)\nTrue the man, true the man, true to my nigga True Religion Buddha man (True it, woo)\nMy money stack tall as Ludacris afro and I swear I'ma shoot with that (Sheesh, sheesh)\nI just hit for nine birds, what I'ma do with that? (Sheesh, sheesh)\nPull up on the curb, then you hop out and be through with that (Skrrt)\nI'm so fresh like dish detergent, if you not fresh, you so through with that (Clean)\nIf you are a nerd, everything here, you not cool with that (Hey, dork)\n\n[Verse 2: Lil Duke]\nPull up, hop out the block, they tuck in they tail, I go, \"Who the clan?\" (Cacaw, cacaw)\nWe dressed in all-black, I'm always on the road just like a Uber man (I'm textin')\nWe wrappin' and sendin' them packs, soon as they land, we movin' 'em (Wrapped, shipped)\nBlame it on the OGs, they influenced me (I'm ridin' with felons and fugitives)\nAin't gonna count money, nigga (Uh-uh, nah)\nI ain't just make money, nigga (Ain't just make money, nigga)\nI put lipstick on the 'Rari, she say that's delicious (Skrr-skrr-skrr-skrr)\nWho that is in that Crown Vic? He look suspicious (Oh, him, shh)\nI just jugged a hundred pounds, I made a\u2026\n\n[Chorus: Young Thug]\nHundred bands, hundred bands dropped on the head of any nigga want it, man (Woo, woo)\nPop me a xanny, I'm fast, I'm so fast, I'm so faster than Sonic, man (Woo, woo)\nTrue the man, true the man, true to my nigga True Religion Buddha man (Sheesh, woo)\nMy money stack tall as Ludacris afro and I swear I'ma shoot with that (Yeah, sheesh, sheesh)\nI just hit for nine birds, what I'ma do with that? (Hey)\nPull up on the curb, then you hop out and be through with that (Skrrt-skrrt)\nI'm so fresh like dish detergent, if you not fresh, you so through with that (Fresh)\nIf you are a nerd, everything here, you not cool with that\n[Outro: Young Thug]\nYeah, you not cool with that\nNo, you not cool with that\nNo, you not cool with that\nYeah171Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 21,
+    "api_path": "/songs/760606",
+    "artist_names": "Young Thug (Ft. Boosie Badazz & T.I.)",
+    "full_title": "Can't Tell by\u00a0Young\u00a0Thug (Ft.\u00a0Boosie\u00a0Badazz & T.I.)",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 760606,
+    "instrumental": false,
+    "lyrics_owner_id": 172030,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725261143,
+    "path": "/Young-thug-cant-tell-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 34,
+    "relationships_index_url": "https://genius.com/Young-thug-cant-tell-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 191464
+    },
+    "title": "Can\u2019t Tell",
+    "title_with_featured": "Can't Tell (Ft.\u00a0Boosie\u00a0Badazz & T.I.)",
+    "updated_by_human_at": 1725261143,
+    "url": "https://genius.com/Young-thug-cant-tell-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/85",
+      "header_image_url": "https://images.genius.com/9a7118eb0b1e83879cdb4b7855158d53.320x180x1.jpg",
+      "id": 85,
+      "image_url": "https://images.genius.com/6f1e66b5da6bb21cceee3cee5fb5dab5.272x272x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "T.I.",
+      "slug": "Ti",
+      "url": "https://genius.com/artists/Ti",
+      "iq": 7727
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/931",
+      "header_image_url": "https://images.genius.com/3bacfd8e8c828bdc7851e1617e4b2d0f.1000x667x1.jpg",
+      "id": 931,
+      "image_url": "https://images.genius.com/681f4bb9ff46a631f887773f54f74156.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Boosie Badazz",
+      "slug": "Boosie-badazz",
+      "url": "https://genius.com/artists/Boosie-badazz",
+      "iq": 545
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "110 ContributorsCan\u2019t Tell Lyrics[Intro: Young Thug]\nYeah\nYeah, yeah\nYeah\n\n[Chorus: Young Thug & T.I.]\nNiggas say they fuck with you, I can't tell\n$500,000 Chevelle (Ayy)\nI got bricks and birds for retail (Ayy)\nI got 100,000 worth of belts (Racks)\nThese bitches and these niggas know\nThat they can't play around here (Yeah)\nI call the spot elementary (Yeah)\n'Cause I keep a K around here\n(Hey, hey, turn it, turn it!) (Yeah)\nAll my Aces (Ow!) if you play (Yup!)\nThey make you grady baby (Woo!) (Ah!, woo!)\nI might shoot you (Ayy) in your head\nAnd then it's no more thinking\n(Thu-thu-thu-thu! Turn up!) (Ayy)\nPussy boy, I'll leave you dead\nAnd call it dedication (No pressure, ayy!) (Woo!)\nI put Act inside my drink, they call it medication\n(Ayy! My drink medicated) (Hey!)\n\n[Verse 1: T.I.]\nHold up, pull up, roll up, pour up (Po' up)\nOunces in a soda (Woo)\nPush up on your bitch and shawty\nI didn't even know her (We had a show)\nHey, see this hood I throw up (Yeah)\nRealest one I ever seen (Bankhead!)\nATL, call it XXL (What)\n'Cause we stay spittin' shells out a long magazine (Grah, bah!)\nReal nigga got a crown, better own that thing (What!)\nIf the game got a throne, bet I'm on that thing (Yup!)\nBeloved dope dealer and a well known King\nAnd a killer 'pending how you put your spin on things (Hey, man)\nYou know how many suckers get ahead I've seen?\n'Bout the same amount of pussy niggas dead I've seen (Uh-huh)\nYou know how many bitches in the bed I've seen? (Uh)\nThat like askin' me how much bread I've seen (Hmm)\nAyy, more than enough, in God we trust\nYou love a real niggas then fuck with us\nBut if you got a problem with it, then fuck with us\nIt be ashes to ashes, dust to dust\nGot your bitch ridin' everything but the bus\nShe let me put it everywhere but the butt (Hah)\nI always tell the bitch don't talk so much (Shh)\nShe say \"Who I'm hidin' from? What the fuck? For what?\" (Hey!)\nYou might also like[Chorus: Young Thug & T.I.]\nNiggas say they fuck with you, I can't tell\n$500,000 Chevelle (Ayy)\nI got bricks and birds for retail (Ayy)\nI got 100,000 worth of belts (Racks)\nThese bitches and these niggas know\nThat they can't play around here (Yeah)\nI call the spot elementary (Yeah)\n'Cause I keep a K around here\n(Hey, hey, turn it, turn it!) (Yeah)\nAll my Aces (Ow!) if you play (Yup!)\nThey make you grady baby (Woo! Ah!, woo!)\nI might shoot you (Ayy) in your head\nAnd then it's no more thinking\n(Thu-thu-thu-thu! Turn up!) (Ayy)\nPussy boy, I'll leave you dead\nAnd call it dedication (No pressure, ayy! Woo!)\nI put Act inside my drink, they call it medication\n(Ayy! My drink medicated Hey!)\n\n[Verse 2: Young Thug]\nMan I'm leanin' so bad\nI can't do a push up for a million\n(Lean, lean lean lean)\nCatch a nigga baby mama\nMake her give me nothin' but ceiling (Head), ayy\nHey, never had time to rap and cap\nAnd dap these tramps, my ice a lamp\nI can't adapt, I'd rather slap\nI rather pop his cap and naps\nHis mom, his aunt, his dad, his cat (Woo!)\n2004, I was screamin' everything Gucci\nNo Big Cat (Woo!)\nAnd we was skatin' up, ridin' with the K's\nShootin' at all these big racks\nFuck a officer (Yeah)\nAkon, what it do, bruh? (What it do?)\nKeep these fuckin' hoes off of you (Why?)\nWhen you get some new money turn new or (Swoo!)\nYou gon' wish you would've or could've (And what?)\nThe way I\nSit down and get rich like a booker (Yeah)\nMight drop the top up off it\nIf I don't get into the helicopter (Racks!)\nFeelin' like I'm on a blue dolphin (Why?)\nNigga ridin' round with like hella choppers\nEvery time I need new surgery (What?)\nI'm gon' call up my head doctor (Brrr)\nFive more thousands 'cause\nShe ain't got no head problems (She the best, she the best)\nYeah, all my niggas they be bleedin' nigga (What?)\nYeah, they ain't gon' never cheat a nigga (Ayy, ayy, ayy)\nYeah, pop a watermelon any season, nigga (Ayy)\nYeah, hey, I'ma bag every time I see her, nigga (K's up!)\nFishin' hoes with my hook (What?)\nPockets all swollen, no book (What?)\nGlasses on, she don't know how I look (Nerdy, nerdy)\nSince I'm on, how the fuck do I look? (I'm on, I'm on)\nYou ain't got no milli, you can't tell me how I look (Oh)\nI'm a big old Blood over here, I'm Suge (Ahh!)\n[Chorus: Young Thug & T.I.]\nNiggas say they fuck with you, I can't tell\n$500,000 Chevelle (Ayy)\nI got bricks and birds for retail (Ayy)\nI got 100,000 worth of belts (Racks)\nThese bitches and these niggas know\nThat they can't play around here (Yeah)\nI call the spot elementary (Yeah)\n'Cause I keep a K around here\n(Hey, hey, turn it, turn it!) (RAH!) (Yeah)\nAll my Aces (Ow!) if you play (Yup!)\nThey make you grady baby (woo!) (Ah!, woo!)\nI might shoot you (Ayy) in your head\nAnd then it's no more thinking\n(Thu-thu-thu-thu! Turn up!) (Ayy)\nPussy boy, I'll leave you dead\nAnd call it dedication (No pressure, ayy) (Woo!)\nI put Act inside my drink, they call it medication\n(Ayy! My drink medicated) (Ayy, hey!)\n\n[Verse 3: Boosie Badazz & Young Thug]\nAyy, you ain't read the paper? (You ain't read the paper?)\nYou ain't seen the news?\nGot a team of goons bout action\nNever start it, but I finish it, so nasty, ask 'em (Ask 'em)\nThey know 'bout me\nI'm so Keyshia with the 9, rock-a-bye, baby\nSo smooth, so fly, baby (So fly, boom, boom!)\nRock-a-bye, baby (Yeah)\nLet me turn up now, four shows a week\n100 thousand a piece, we gettin' bread now (Bread now)\n(Yeah)\nMama don't worry 'bout nothin' ('bout nothin')\nYou can kick up your legs now (Yeah)\nI ain't lyin', got hitters on top of hitters (Chop it, nigga!)\nGot hitters on top of hitters (Yeah)\nRest in peace to my nigga Lil Bleek (Lil Bleek!)\nI miss you, I miss you nigga\nJust tryna live and have a lil fun, nigga\nNephew just came home, half a million dollar bond, nigga\nI got fans that bust yo' ass, you talk 'bout Boosie baby\nGot off my ass, went got that bag, and Boosie made it\nHate that, nigga\n[Chorus: Young Thug & T.I.]\nNiggas say they fuck with you, I can't tell\n$500,000 Chevelle (Ayy)\nI got bricks and birds for retail (Ayy)\nI got 100,000 worth of belts (Racks)\nThese bitches and these niggas know\nThat they can't play around here (Yeah)\nI call the spot elementary (Yeah)\n'Cause I keep a K around here\n(Hey, hey, turn it, turn it!) (Yeah)\nAll my Aces (Ow!) if you play (Yup!)\nThey make you grady baby (Woo!) (Ah!, woo!)\nI might shoot you (Ayy) in your head\nAnd then it's no more thinking\n(Thu-thu-thu-thu!, turn up!) (Ayy)\nPussy boy, I'll leave you dead\nAnd call it dedication (No pressure, ayy) (Woo!)\nI put Act inside my drink, they call it medication\n(Ayy!, my drink medicated) (Hey!)34Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 25,
+    "api_path": "/songs/737615",
+    "artist_names": "Young Thug",
+    "full_title": "Check by\u00a0Young\u00a0Thug",
+    "header_image_thumbnail_url": "https://images.genius.com/8dac472f8f5680f65fa734460aab832d.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/8dac472f8f5680f65fa734460aab832d.1000x1000x1.jpg",
+    "id": 737615,
+    "instrumental": false,
+    "lyrics_owner_id": 282633,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1690201702,
+    "path": "/Young-thug-check-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 318,
+    "relationships_index_url": "https://genius.com/Young-thug-check-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 1
+    },
+    "release_date_for_display": "April 1, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 1, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8dac472f8f5680f65fa734460aab832d.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/8dac472f8f5680f65fa734460aab832d.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "concurrents": 2,
+     "hot": false,
+     "pageviews": 1181038
+    },
+    "title": "Check",
+    "title_with_featured": "Check",
+    "updated_by_human_at": 1723360101,
+    "url": "https://genius.com/Young-thug-check-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "181 ContributorsTranslationsPortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439Check Lyrics[Intro: Young Thug & Skooly]\nI can see that bullshit from a mile away (See it)\nYou can stack my money 'bout a mile away (Stack it)\nI got three white bitches like it's powder day (White)\nMink coat with the rolls like a Shar Pei\nAnd all of my bitches sexy, call them Barbies (Sexy)\nShe lookin' back like I'm flexin', baby, no way (Uh-uh)\nAnd lately, I been on that D'usse, yee\n(We got London on the track)\n\n[Chorus]\nGot me a check, I got a check\nYeah, I done got me a check, I got a check (Sheesh, sheesh)\nYeah, I done got me a check, I got a check (Sheesh)\nYeah, I done got me a check, oh, got a check (Yeah, yeah-yeah!)\n[Post-Chorus]\nMoney on my mind, I got money on my brain\nMoney in my pants, I got money I call change\n20, 50, 100, 500 millions made\nBig hunna Thugga, screamin' free that Gucci Mane\n\n[Verse 1]\nIf I need some racks, I'ma flip me some packs\nI talk like I want and she don't say nothin' back\nIf cops pull up, I put that crack in my crack\nOr I put that brack in my brack\nCall little shawty, made her fuck on my brodie\nIf you don't owe me, bitch, still act like you owe me\nI promise I won't ever quit, bitch, I'm Kobe\nAnd I whip that white, you can snow me\nStoner Young Thugger\nI whip it, that bitch, yeah, she know me, Young Thugger\nYeah, she shinin' like butter\nThe bitch from Chicago, I call her young Cutler\nLeave it to Beaver\nI pull up in Bentleys with London, they all want to meet him\nYeah, they all wanna greet him\nThey pull down they pants and they all wanna eat him, uh\nNo, they won't tease on that dick, they won't read on that dick\nThey won't leash on that dick, don't Felicia that dick\nMamacita that dick, they gon' snitch on that dick\nAnd she screamin' loud, she can't secret that dick\nMama a beast on that dick\nIf she bad, I'ma gon' an' Four Season that bitch\nEat that, lil' bitch, I'ma feast that lil' bitch, mm\nYou might also like[Chorus]\nI got me a check, I got a check\nYeah, I done got me a check, I got a check (Sheesh, sheesh)\nYeah, I done got me a check, I got a check (Sheesh)\nYeah, I done got me a check, oh, got a check (Yeah, yeah-yeah!)\n[Post-Chorus]\nMoney on my mind, I got money on my brain\nYeah, I'm like, baby, baby, baby, I need racks\nMoney in my pants, I got money I call change\nBaby, baby, baby, baby, baby, I need racks\n20, 50, 100, 500 millions made\nBaby, baby, baby, baby, baby, I want racks\nBig hunna Thugga, screamin' free that Gucci Mane\nBaby, baby, baby, baby, baby, I need racks, hey!\n\n[Verse 2]\nBitch, I'm a Migo, I play with kilo\nWhen I put ice on, I am Sub-Zero\nAll of my niggas, they hard, call 'em beetles\nNiggas was fake so I kept me a Ruger in Regals\nDroppin' the top on the Bentley\nI'm with the Birdman, yeah, the eagle\nGeeked out my mind, man, I'm tripping out\nI don't know none of these people\nMake my little shawty go get me a four and bring back me a liter\nYes, I got threats, I'm not worried 'bout that\nThey know they can get whacked and I swear I done\n[Chorus]\nGot me a check, I got a check\nYeah, I done got me a check, I got a check (Sheesh, sheesh)\nYeah, I done got me a check, I got a check (Sheesh)\nYeah, I done got me a check, oh, got a check (Yeah, yeah-yeah!)\n[Post-Chorus]\nYeah, I'm like, baby, baby, baby, I need racks\nBaby, baby, baby, baby, baby, I need racks\nBaby, baby, baby, baby, baby, I want racks\nBaby, baby, baby, baby, baby, I need racks, hey!\n\n[Outro: Skooly]\nWe got London on da Track!318Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/764643",
+    "artist_names": "Young Thug (Ft. Young Dolph)",
+    "full_title": "Never Had It by\u00a0Young\u00a0Thug (Ft.\u00a0Young\u00a0Dolph)",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 764643,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1682127373,
+    "path": "/Young-thug-never-had-it-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 38,
+    "relationships_index_url": "https://genius.com/Young-thug-never-had-it-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 153772
+    },
+    "title": "Never Had It",
+    "title_with_featured": "Never Had It (Ft.\u00a0Young\u00a0Dolph)",
+    "updated_by_human_at": 1723391184,
+    "url": "https://genius.com/Young-thug-never-had-it-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/22437",
+      "header_image_url": "https://images.genius.com/2c4f9201b01541665ec219bbc9542482.850x1000x1.jpg",
+      "id": 22437,
+      "image_url": "https://images.genius.com/529bd775075870ed3e750905f06f0565.1000x1000x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Young Dolph",
+      "slug": "Young-dolph",
+      "url": "https://genius.com/artists/Young-dolph",
+      "iq": 1454
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "67 ContributorsNever Had It Lyrics[Intro: Young Thug]\n(Wheezy Beats)\nYeah\nYeah\nYeah\nYeah\nYSL, uh\n\n[Chorus: Young Thug]\nPussy niggas actin' like they never had shit\nAll these bitches actin' like they never had shit\nI got a bad bitch, she said she always had shit\nAll these flawless diamonds, got it lookin' glassy\nCatch that nigga slippin', I'ma do 'em nasty\nCheck out my attire, this expensive fabric\nAnd we can wrestle just like Randy Savage\nMy jewelry as cold as an attic\nThe kushy that I smoke'll blow your lungs out\nI'ma walk in, I clutch it like it's a war house\nAll your bitches that bust it, they live in your house\nWhat goes up come down, my nigga, north, south\nI done ran up them M's without a tour now\nShe done stepped up her game, Christian couture now\nThese niggas thought that they knew it, but they don't know now\nI swear to God they pursuin' at all my shows now\nYou might also like[Verse 1: Young Thug]\nAyy, hopped out my 'Vette and hopped right in a foreign, ayy (Skrrt)\nBitch, don't get close, this a motherfuckin' warning, ayy (Warnin' you)\nSuck that dick good, I'm the motherfuckin' warden, ayy (Suck it up, suck it up)\nShe runnin' away from my weed like it farted (Woah, woah, woah)\nShe don't wan' swallow, so I put it on her neck (What?)\nI beat that pussy up, she loud as a parade (Bitch)\nI got one million, but only ten in the bank (Racks)\nI taste a sample, I only buy if it's dank (Kushy)\nI cook fishscale and sang to her same time like Tank (What?)\nI was born in '91, twenty-three years old with a whole lotta stain (Five-star motherfucker)\nBaby, can you feel my pain? (Yeah)\nAll my diamonds need to be drained (What?)\nI got a gangster bitch that's gon' bang (And)\nI got racks up, I can't complain (And)\nAll my dogs, they dirty, check for mange  (And)\nAll I gotta do is reserve your brains (And)\nI'm a gangster, my nuts, they gon' hang (And)\nWho said you was straight? Boy, you need to be retained (Oh, woah, woah, ayy)\n\n[Chorus: Young Thug & Young Dolph]\nPussy niggas actin' like they never had shit (Ayy)\nAll these bitches actin' like they never had shit (Yup)\nI got a bad bitch, she said she always had shit (What?)\nAll these flawless diamonds, got it lookin' glassy (What? Damn)\nCatch that nigga slippin', I'ma do 'em nasty (What? Ayy)\nCheck out my attire, this expensive fabric (Ayy, ayy)\nAnd we can wrestle just like Randy Savage (Ooh, ayy)\nMy jewelry as cold as an attic\nThe kushy that I smoke'll blow your lungs out (Yup)\nI'ma walk in, I clutch it like it's a war house (Haha, what?)\nAll your bitches that bust it, they live in your house (What?)\nWhat goes up come down, my nigga, north, south (What?)\nI done ran up them M's without a tour now (Run it up)\nShe done stepped up her game, Christian couture now (Uh-huh, what? Haha)\nThese niggas thought that they knew it, but they don't know now (It's Dolph)\nI swear to God they pursuin' at all my shows now (Thugger Thugger, ayy)\n[Verse 2: Young Dolph]\nTook the Rollie off, put that Breitling back on (Yup)\nWalk in the room and I cut the lights on\nWhy you spendin' like that? 'Cause I ain't never had shit\nThis that real nigga Paper Route, YSL shit\nNever loved a bitch, but I love money (Damn)\nIn the church payin' my tithes with drug money (Thank you, God)\nWent and got a new plug, got mama a new house (Ayy, ayy, ayy)\nAnd a couple new coupes, that's how a young nigga live\nCouple bitches, good weed, that's how a nigga chill\nTop floor, penthouse, still crackin' seals (Mud)\nThem Houston niggas be like, \"That young nigga trill\"\nThem New York niggas say that young nigga ill (It's Dolph)\nMy mama always told me dress to kill, ayy (Hah)\nMy uncle always told me pack the steel, ayy (What?)\nThat nigga Thugger, that's my motherfuckin' brother (Yup, yup)\nFrom a motherfuckin' 'nother, I'ma show you how to make magic (Ayy)\nThe fuck is you mad at?\nGot your bitch dancin' all in my spot with no panties\nI said, \"Bitch where your motherfuckin' man at?\" (Where he at?)\nFuck that, where your friends at? Damn that (Fuck 'em)\nSold fifty P's, hold it, have to bag it (Ooh-ooh)\nThat little bitch you lovin' on, I been had it (Ayy, hahaha)\nPull up in that new drop, that thang nasty (Ayy, ayy, hey)\nMama call all my big booty bitches trashy (Damn)\n[Chorus: Young Thug]\nPussy niggas actin' like they never had shit\nAll these bitches actin' like they never had shit\nI got a bad bitch, she said she always had shit\nAll these flawless diamonds, got it lookin' glassy\nCatch that nigga slippin', I'ma do 'em nasty\nCheck out my attire, this expensive fabric\nAnd we can wrestle just like Randy Savage\nMy jewelry as cold as an attic\nThe kushy that I smoke'll blow your lungs out\nI'ma walk in, I clutch it like it's a war house\nAll your bitches that bust it, they live in your house\nWhat goes up come down, my nigga, north, south\nI done ran up them M's without a tour now\nShe done stepped up her game, Christian couture now\nThese niggas thought that they knew it, but they don't know now\nI swear to God they pursuin' at all my shows now38Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/795378",
+    "artist_names": "Young Thug (Ft. Yak Gotti)",
+    "full_title": "Dream by\u00a0Young\u00a0Thug (Ft.\u00a0Yak\u00a0Gotti)",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 795378,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720099853,
+    "path": "/Young-thug-dream-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 38,
+    "relationships_index_url": "https://genius.com/Young-thug-dream-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 175618
+    },
+    "title": "Dream",
+    "title_with_featured": "Dream (Ft.\u00a0Yak\u00a0Gotti)",
+    "updated_by_human_at": 1723383754,
+    "url": "https://genius.com/Young-thug-dream-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/350112",
+      "header_image_url": "https://images.genius.com/d4037561f852102e6b5d79a760448012.1000x210x1.jpg",
+      "id": 350112,
+      "image_url": "https://images.genius.com/aeacb8f28dad36ff2f1b346e71771dcd.640x640x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Yak Gotti",
+      "slug": "Yak-gotti",
+      "url": "https://genius.com/artists/Yak-gotti"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "69 ContributorsDream Lyrics[Chorus: Young Thug]\nA young nigga's life is a dream, yeah\nWe ain't lettin' no hoes get in between us\nWhen my diamonds speak, they say \"bling,\" yeah\nYellow diamonds, no crime scene, yeah (Woo, woo, woo, woo, woo)\nThis that rich shit, I eat fish and grits (Yeah)\nCatch me boolin' with my dogs just like Michael Vick (Yeah)\nI don't give no damn if they throw it off\nI won't fuckin' miss (What?)\nBitch, I'm so up, no Sleepy Brown\nWouldn't talk to him 'bout shit (No!)\nYou dig?\n\n[Verse 1: Young Thug]\nI want you to talk to the hand while I talk to bands (Brr)\nI might go and stop playing, take over the land (Yeah)\nMy money long as school buses, ain't talkin' no Xans (Yeah)\nSit still, I'm cool comin', pull up and then spray it (Pfft)\n50 dub, know I'm sayin'? (Woo)\nHundred bloods, them my fam (Blatt)\nHundred bloods, them not fans (Blatt)\nFuck the beach, I got sand (Fuck it)\nPS3, I'm not playin' (Yeah)\nGo gentle on my lil' man (Yeah)\nShe understand what I'm stayin' (Yeah)\nI'm booted up, I couldn't land (Woo)\nMy car is fast, that shit drag (Skrrt)\nVersace white, Ku Klux Klan (Yeah)\nDon't care if he's Crip, he still fam (No)\nNo AM, bitch, I am (I am)\nBut when I do I might need help up (And what?)\nAnd I wanna be like Mike and I ain't talkin' Phelps, bruh (Skrrt-skrrt-skrrt-skrrt)\nYou might also like[Chorus: Young Thug & Yak Gotti]\nA young nigga's life is a dream, yeah\nWe ain't lettin' no hoes get in between us (Nah)\nWhen my diamonds speak, they say \"bling,\" yeah\nYellow diamonds, no crime scene (Yak)\nYeah (Woo, woo, woo)\nThis that rich shit, I eat fish and grits (Yeah)\nCatch me boolin' with my dogs\nJust like Michael Vick (Yeah, woo)\nI don't give no damn if they throw it off\nI won't fuckin' miss (What? Yak, Yak, Yak)\nBitch, I'm so up, no Sleepy Brown\nWouldn't talk to him 'bout shit (No)\nYou dig?\n\n[Verse 2: Yak Gotti, Young Thug & Both]\nHey, how you doin'? I'm Yak Gotti (Woo)\nI got bodies on bodies\nI'm with Thugger, that's my woadie\nYeah, my round, that's my compadre (Yeah)\nAnd we solid, oh, so solid (Ah)\nIf I get caught I won't say nothin' (Shh)\nYSL, bitch, we mobbin', I'm for real\nThis beat knockin' (Yeah, yeah)\nTrigger, boy, I got you (Got you)\nRico, boy, I got you (Got you)\nI'm livin' out my dreams (What?)\nBroke is not an option (Uh-uh)\nYeah, I'm livin' out my dreams\nBroke is not an option (Uh-uh)\nWho the fuck wanna stop it? (Hey)\n[Chorus: Young Thug]\nA young nigga's life is a dream, yeah\nWe ain't lettin' no hoes get in between us\nWhen my diamonds speak, they say \"bling,\" yeah\nYellow diamonds, no crime scene, yeah (Woo, woo, woo)\nThis that rich shit, I eat fish and grits (Yeah)\nCatch me boolin' with my dogs just like Michael Vick (Yeah)\nI don't give no damn if they throw it off\nI won't fuckin' miss (What?)\nBitch, I'm so up, no Sleepy Brown\nWouldn't talk to him 'bout shit (No)\nYou dig?38Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/786788",
+    "artist_names": "Young Thug (Ft. Lil Duke)",
+    "full_title": "Dome by\u00a0Young\u00a0Thug (Ft.\u00a0Lil\u00a0Duke)",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 786788,
+    "instrumental": false,
+    "lyrics_owner_id": 172030,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722024660,
+    "path": "/Young-thug-dome-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 43,
+    "relationships_index_url": "https://genius.com/Young-thug-dome-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 207623
+    },
+    "title": "Dome",
+    "title_with_featured": "Dome (Ft.\u00a0Lil\u00a0Duke)",
+    "updated_by_human_at": 1723374414,
+    "url": "https://genius.com/Young-thug-dome-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/585266",
+      "header_image_url": "https://images.genius.com/ef2599613ec72ec48237f705405a7f9c.483x483x1.png",
+      "id": 585266,
+      "image_url": "https://images.genius.com/57e1b9f4e478659e97e7ff959d0450c6.640x640x1.jpg",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Duke",
+      "slug": "Lil-duke",
+      "url": "https://genius.com/artists/Lil-duke"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "95 ContributorsDome Lyrics[Intro: Young Thug]\n(Wheezy Beatz)\nYeah, okay\n\n[Pre-Chorus: Young Thug]\nI got like five million and twelve-hundred thousand hoes (Racks)\nThey drippin' all over my motherfuckin' clothes (Sheesh!)\n\n[Chorus: Young Thug]\nLet's go off the dome (Woah)\nI can't make it home (No)\nI fucked her, I boned her (Yeah)\nShe leave an aroma (Skrt)\nThey callin' my phone up (Brrt, brrt)\nMy girl like \"What's goin' on?\" \"Uh...\" (Brrt, brrr)\nShe suckin', put me in a coma (Slurp)\nI nut on that fish on my sofa (Yeah)\n\n[Post-Chorus: Young Thug]\nYeeeeeah (Yeah, yeah, yeah, yeah)\nYeeeeeah (Yeah, yeah, yeah, yeah, yeah)\nYeeeeeah (Yeah, yeah, yeah, yeah, yeah)\nOh what's brackin'? (Uh, yeah)\n\n[Verse 1: Young Thug & Lil Duke]\nDickie suit, chucks\nFlag hangin' to the right\nPut that young bitch in a buck' (Yeah)\nKid Cudi, fuck her all day and all night (Swoo)\nOkay, I'm in this bih' with Lil Duke; Longway (Duke)\nYou can be with me, you too, four way (No)\nPut that bitch off from my deuce, slow day (Woo)\nI'ma sell at least like two (Two, yeah)\nThugga Thugga, what it do?\nRidin' in the fast lane, I'm eludin' (Brrr, skrt)\nAll these drugs that we abusin' (Drugs)\nAddicted to winnin', not losin' (Winnin)\nI'm in the kitchen just cookin' (Cook it up)\nMiddle finger to a bookin' (Fuck 'em)\nFuck runnin' off, fuck nigga I took it (Took)\nDiamond so wet, I might need to douche it (Splash)\nDiamonds they shower, they shower me (Woo)\nYes that lil' nigga I got with me (Yeah)\nWhen it's war my niggas count on me (Yeah)\nBeyonc\u00e9, bitch, I'm a bumble bee (Yeah, yeah, yeah)\nThis the beehive, this my turf, bitch, you can't sting on me (Yeah, yeah, yeah)\nJingle bells, baby, you can ring on me (Yeah)\nYou might also like[Chorus: Young Thug]\nLet's go off the dome (Woah)\nI can't make it home (No)\nI fucked her, I boned her (Yeah)\nShe leave an aroma (Skrt)\nThey callin' my phone up (Brrt, brrt)\nMy girl like \"What's goin' on?\" (Brrt, brrr)\nShe suckin', put me in a coma (Slurp)\nI nut on that fish on my sofa (Yeah)\n\n[Post-Chorus: Young Thug]\nYeeeeeah (Yeah, yeah, yeah, yeah, yeah)\nYeeeeeah (Yeah, yeah, yeah, yeah)\nYeeeeeah (Yeah, yeah, yeah, yeah, yeah)\nOh what's brackin'? (Uh)\n\n[Verse 2: Lil Duke, Young Thug & Both]\n458 California 'Rari (Skrt), I got that old money, call it Atari\nLet's go off the dome, I trap by the Dome (Huh)\nKeep a couple grams in my field pocket\nKeep a pocket rocket on me, ain't no guessin' if I'm gon' pop it (Pew, pew, bow)\nGot a lot of blood homies (Woo), and guess what? It ain't no stoppin' (Uhuh)\nHop in the car and I'm wylin', I'm stylin'\nI hop out and cuss out my driver (Skrrt, hop in)\nFuck nigga try me, no Eddie Bauer, I'ma pull up and make it rain, showers (Ahh, grah, grah)\nI'm a lil' kid when it come to that pussy, I hop up like the Icy Tower (Hop up, yeah)\nI would rather be a coyote than be a coward (Damn)\nI creep right up on them, hit 'em with the AK, 7 in the morning (Pew, pew)\nNo Christmas Eve, caught him by surprise, he was still yawnin' (Ahh!)\nI'm runnin' the city, you ridin' in that loaner, I'm runnin' with owners\nI'm runnin' with armor, I'm not even thinkin', I'm right off the dome (Pew, pew, pew, pew, bow)\n[Chorus: Young Thug]\nLet's go off the dome (Woah)\nI can't make it home (No)\nI fucked her, I boned her (Yeah)\nShe leave an aroma (Skrt)\nThey callin' my phone up (Brrt, brrt)\nMy girl like \"What's goin' on?\" (Brrt, brrr)\nShe suckin', put me in a coma (Slurp)\nI nut on that fish on my sofa (Yeah)\n\n[Post-Chorus: Young Thug]\nYeeeeeah (Yeah, yeah, yeah, yeah, yeah)\nYeeeeeah (Yeah, yeah, yeah, yeah)\nYeeeeeah (Yeah, yeah, yeah, yeah, yeah)\nOh what's brackin'? (Uh, yeah)43Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 33,
+    "api_path": "/songs/731048",
+    "artist_names": "Young Thug",
+    "full_title": "Halftime by\u00a0Young\u00a0Thug",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 731048,
+    "instrumental": false,
+    "lyrics_owner_id": 282633,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724729822,
+    "path": "/Young-thug-halftime-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 138,
+    "relationships_index_url": "https://genius.com/Young-thug-halftime-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 10,
+     "hot": false,
+     "pageviews": 575033
+    },
+    "title": "Halftime",
+    "title_with_featured": "Halftime",
+    "updated_by_human_at": 1724729822,
+    "url": "https://genius.com/Young-thug-halftime-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "144 ContributorsTranslationsPortugu\u00easHalftime Lyrics[Intro]\nTurn it up, Thugger\nThugger, and let's go\n\n[Verse 1]\nHalftime (What?), half a Perky, half a xanny, nigga, halftime\nHalf a pint, pour up an eight, my nigga, halftime\nTryna rob, that stick turn his body to halftime (Boom), yeah\nHit the streets and tear this bitch up like I'm Willie B (Yeah)\nNo Tennessee, but the chain on my neck is a T (Ayy)\nNo Memph' Bleek, bitch, I own the Roc, not JAY-Z (Rock), ya dig?\nWar Ready like Tracy T, ya dig? (Pew-pew, pew-pew-pew-pew-pew-pew-pew-pew)\nRacks on racks on racks, just might pull up on my Spider (Skrrt)\nAll my diamonds black, you can motherfuckin' knight 'em\nAll these pussy niggas wack, I'm a murk 'em every night'll\nPull up screamin' \"Blatt,\" got my motor out a Viper\nGot 100 million flat like my motherfuckin' idol\nI might eat it, I might lick it, but I swear I'll never bite 'em (No)\nEvery time I dress myself, it go motherfuckin' viral (Ah)\nPussy niggas stealin' swag, bring my shit back like recycles (Ha)\nI might ask her for some head\nI don't know that ho, I act like she dead\nInsurance on my money like a wreck (Ayy)\nEvery time I see her, she lick the cleavage\nFuck her on a ten-thousand dollar bed\nI could never love her, fuck her head\nSuck my dick like Beavis, no Butthead (Woo)\nCocaine white like Justin Bieber, bitch\nI might show the racks and tease the bitch (What?)\nI might want it but I don't need the bitch (Shee)\nI been flooded out by Jesus, bitch (Shee)\nI want your pizza, Little Caesar's, bitch (Shee)\nNinth Ward, I buy my diesel, bitch (Shee)\nI don't wanna talk or see a snitch (No)\nNo teacher, we chalkin' shit\nI passed school, I'm passin' all the staffs\nI just want that neck like a giraffe\nI like fish and water, I'm a bear\n17.5, I shave it like it's Nair\nLay out, watch the kids like a daycare\nI don't play games, no, I'm not the fair\nI got Hot Wheels like a motherfuckin' chariot (Skrrt)\nChanel Vintage, boy, this shit is rare\nYou might also like[Chorus]\nHey, a good time\nHey, let's have a good time, hey, a very good ti-i-ime\nHey, let's have a very good time\nHey, a very good time, hey-ooh, let's have a very good ti-i-ime\n\n[Verse 2]\nI done figured this shit out, if you think you gon' bite on my swag, it's a virus (Oh)\nI don the swag and I pull up on bitches dressed in all white like Miley Cyrus (Yeah)\nNo, I'm not gay, I fuck bitches on bitches, I whip out, she suck on my private (Suck it)\nLil' nigga play, I'ma catch him down bad and then stick 'em, fold 'em like a wallet (Ooh)\nI swear to God there's only one of me and these bitches three-deep like a trident (Ooh)\nI'm walkin' through it like tons of the ones and these bitches grabbin', I'm at Follies (Ooh)\nFuck nigga try me, I swear to God, lil' whoadie pull up and pop at his noggin' (Pew-pew-pew-pew-pew-pew-pew)\nBitch, I got water, I look like I'm fresh from Hawaii\n\n[Bridge]\nHavin' the time of my motherfuckin' life\nI'm gonna buy everything I want, I can't think twice\nYou can turn the ice tray off, baby, I'm havin' ice\nAs long as I live, wouldn't want a wife\n\n[Chorus]\nHey, a good time\nHey, let's have a good time, hey, a very good ti-i-ime\nHey, let's have a very good time\nHey, a very good time, hey-ooh, let's have a very good ti-i-ime138Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/802399",
+    "artist_names": "Young Thug (Ft. Jacquees)",
+    "full_title": "Amazing by\u00a0Young\u00a0Thug (Ft.\u00a0Jacquees)",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 802399,
+    "instrumental": false,
+    "lyrics_owner_id": 282633,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724388112,
+    "path": "/Young-thug-amazing-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 19,
+    "relationships_index_url": "https://genius.com/Young-thug-amazing-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 91909
+    },
+    "title": "Amazing",
+    "title_with_featured": "Amazing (Ft.\u00a0Jacquees)",
+    "updated_by_human_at": 1724388112,
+    "url": "https://genius.com/Young-thug-amazing-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/13616",
+      "header_image_url": "https://images.genius.com/0a9bf7ec5d8bf6e0897167bac7d12e78.1000x1000x1.png",
+      "id": 13616,
+      "image_url": "https://images.genius.com/0a9bf7ec5d8bf6e0897167bac7d12e78.1000x1000x1.png",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Jacquees",
+      "slug": "Jacquees",
+      "url": "https://genius.com/artists/Jacquees",
+      "iq": 2791
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "67 ContributorsAmazing Lyrics[Intro]\nSticky kush, sticky kush\nTell me your name\nWheezy Beats\n\n[Verse 1: Young Thug]\nNigga, have you ever dreamed?\nI was the man and you a thing\nOne and two\nAnytime I get mad, I can goodbye to you\nGod damn, who the hell let rats in the house?\nKing of lions, who let these cats run out of the house?\nHouston, Texas when I'm on land, I lean back like a couch\nI'm not playin', I want it bad, call shots like a spouse\nWe roll that kushy up, we eat that pussy though\nSuck it til you're throwin' up, my Phantom grey, no hound\nI lost a Lear, no bucks, still waitin' on that Bentley truck\nStop playin', lil' bitty boy, you a dub\nHe ain't YSL, nigga, he ain't in the hut\nI might stop by and let that lil' bitch lush\nI pull up and chop at your cousin, your bus\nLil' nigga, you know what it was\nYou know what it is, you know what it does\nI'm makin' your old lady shake it\nShe suckin' too slow, I'm impatient\nMy diamonds so wet like your baby\nDon't know where to go, I'm amazin'\nYou might also like[Chorus: Jacquees]\nWhat's amazin'? I don't know\nWhat's amazin'? I don't know\nWhat's amazin'? I don't know\nWhat's amazin'? (Amazing is a grateful thing)\nI might accept your apology\nI mean you throw L's up if you ain't followin'\nI am a beast, your life I'll be swallowin'\nAnd I've been drinkin', I need to bottle this\n\n[Verse 2: Young Thug]\nMan I'm so tired of these niggas man\nI am so tired of these bitches\nI'm so magnificent, studio workin'\nI'm wearin' a top like I'm pimpin'\nYour bitch want my milk\nI'm sittin' at the top lookin' down at these wimps\nThese hoes just roll me a blunt\nAnd you know that they stuff it, it cannot be imps\nI never had cutlass and donks\nI based up my bankroll then based out my trunk\nI might fuck that lil' bitch in the mornin'\nI might put her out and call Tyrone\nSnoop Dogg, I might go ahead and bone\nI'm big ballin', bitch put me inside the dome\nI'm wearin' Maison Margiela (The tight way)\nI'm wearin' Maison Margiela (The right way)\nI'm wearin' Maison Margiela (The scary sight way)\nI'm wearin' Maison Margiela (The goodnight way)\nTake some sand to the beach\nParty with a couple foreign freaks\nKim K lookin' ho, Yeezy\nFlorida livin' nigga, Pork N Beans\n[Interlude: Jacquees]\nYeah, and I'ma ride this bitch tonight\nAnd I just might ride this bitch tonight\nPork N Beans where you at baby?\nPork N Beans where you at baby?\n\n[Verse 3: Young Thug]\nBrown sugar on that bitch\nPull up with a ho and she know I'm ready to\nBust her, pay her, leave her, fuck her\nI don't wait up, hold up, let me check my mail\nHe broke, he servin' his squad with a scale\nI make it rain, I hope all is well\nI pull off deep like what in the hell?\nHo give all my niggas some bails\nWait I'ma lay down 'fore I'll tell\nPull up in old school Chevelles\nI don't save pictures, they might get revealed\nHow many times have I asked are you well?\nHow many times have I popped a perc pill?\nHow many homies at home on the bail?\nHow many times have I told you you shall?\nHow many meals have I ate until I burp?\nDropping the top on the Mulsanne, ain't no hot top on Hertz\nHey, I worked so hard to get out that dirt\nHey, I was thinking this is not that work19Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/761698",
+    "artist_names": "Young Thug (Ft. Birdman)",
+    "full_title": "Knocked Off by\u00a0Young\u00a0Thug (Ft.\u00a0Birdman)",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 761698,
+    "instrumental": false,
+    "lyrics_owner_id": 104344,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1695363325,
+    "path": "/Young-thug-knocked-off-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 27,
+    "relationships_index_url": "https://genius.com/Young-thug-knocked-off-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 112057
+    },
+    "title": "Knocked Off",
+    "title_with_featured": "Knocked Off (Ft.\u00a0Birdman)",
+    "updated_by_human_at": 1723468539,
+    "url": "https://genius.com/Young-thug-knocked-off-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/86",
+      "header_image_url": "https://images.genius.com/d58a4d380232a1639d2c63675f5b8083.804x552x1.jpg",
+      "id": 86,
+      "image_url": "https://images.genius.com/ac01f34b6b053df6250f06a86262eaa6.719x719x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Birdman",
+      "slug": "Birdman",
+      "url": "https://genius.com/artists/Birdman"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "48 ContributorsKnocked Off Lyrics[Intro: Young Thug]\nYeah, yeah\nWoah, woah, woah, woah, woah\nAyy\n\n[Chorus: Young Thug & Birdman]\nI'm gon' beat that pussy up just like a champion (Woo)\nI'm a beast inside these streets like a barbarian (Beast)\nTold my baby next February we're married (On blood)\nWe laughin' at these pussy boys, they're so hilarious (Hah)\nI might get him knocked off, pull some spaghetti strings\nYou understand?\nThey ain't gon' play with me, no no (Pew pew pew pew)\nI might get him knocked off for a double sealed pint of lean\nYou dig?\nThey ain't gon' play with me, no no (On blood)\nI might get him knocked off while I pull a bank scheme\nB's up\nThey ain't gon' play with me, no no (Skrrrrrt)\nI might get him knocked off for just tryna join the team\nYeah, Stunna\nThey ain't gon' play with me, no no (Gah gah gah gah)\nYeah\n\n[Verse 1: Birdman & Young Thug]\nYeah, we roll these bitches like they centipedes (Damn)\nWe get this money, flip some hundreds then we blow some Gs (They on my what?)\nI gave her life and then I showed her Bs (Roll it, roll it, roll it)\nWe fucked the world but now we overseas (Woop, woop)\nInside of the car, we stashed a hundred bricks (Swoo)\nWe put it down and hit the town, we 'bout the money trips (Woo)\nWait, the ice is rollin' 'cause we're rollin', bitch (Gah)\nFlakes, the dope is colder 'cause we're polar, bitch (Whip, whip)\nI answer the call and put her right beside me (Skrrrt)\nTwo, we 'bout that woop like them brand new Spyders (Skrrrt)\nKeep your mouth closed, boy, 'cause we're aim and fire (Woah, woah)\nI just might one night her, show love and wife her (Damn)\nI'm bangin' green like the lizard in Geico (Woo)\nI pull up and wet you, burn your top like Michael (Woo)\nI got bullets bigger than fingers in rifles (Gah, gah)\nIt's big Bs with a hundred Gs in each one of my pockets\nBlatt\nYou might also like[Chorus: Young Thug]\nI'm gon' beat that pussy up just like a champion (Woo)\nI'm a beast inside these streets like a barbarian (Beast)\nTold my baby next February we're married (On blood)\nWe laughin' at these pussy boys, they're so hilarious (Hah)\nI might get him knocked off, pull some spaghetti strings\nThey ain't gon' play with me, no no (Pew pew pew pew)\nI might get him knocked off for a double sealed pint of lean\nThey ain't gon' play with me, no no (On blood)\nI might get him knocked off while I pull a bank scheme\nThey ain't gon' play with me, no no (Skrrrrrt)\nI might get him knocked off for just tryna join the team\nThey ain't gon' play with me, no no (Gah gah gah gah)\nYeah\n\n[Verse 2: Young Thug]\nI'm not gon' pass, I'ma smash 'em\nShe want that nut so I blast her\nMy Bentley grey like a pastor\nWhippin' that snow, no Alaska\nGood head, she got her masters\nShawty a long way from dumb\nYour money flat like a plasma\nGood kush, smoke is the bomb\nI drink that Act while you be drinkin' red\nI don't fall in love, I run over it instead\nHey, babe, bobble that big ol' head\nI'm like, \"lil' baby, I don't know your kid\"\nI keep my pistol I'll give you the lead\nThey 3 deep I call 'em Ed, Edd and Eddy\nBaby take a picture,  get that photo cred\nShe make me lean back like a sofa bed\n[Chorus: Young Thug]\nI'm gon' beat that pussy up just like a champion (Woo)\nI'm a beast inside these streets like a barbarian (Beast)\nTold my baby next February we're married (On blood)\nWe laughin' at these pussy boys, they're so hilarious (Hah)\nI might get him knocked off, pull some spaghetti strings\nThey ain't gon' play with me, no no (Pew pew pew pew)\nI might get him knocked off for a double sealed pint of lean\nThey ain't gon' play with me, no no (On blood)\nI might get him knocked off while I pull a bank scheme\nThey ain't gon' play with me, no no (Skrrrrrt)\nI might get him knocked off for just tryna join the team\nThey ain't gon' play with me, no no (Gah gah gah gah)\nYeah27Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 28,
+    "api_path": "/songs/766194",
+    "artist_names": "Young Thug",
+    "full_title": "OD by\u00a0Young\u00a0Thug",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 766194,
+    "instrumental": false,
+    "lyrics_owner_id": 987807,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721801807,
+    "path": "/Young-thug-od-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 38,
+    "relationships_index_url": "https://genius.com/Young-thug-od-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 123773
+    },
+    "title": "OD",
+    "title_with_featured": "OD",
+    "updated_by_human_at": 1723389435,
+    "url": "https://genius.com/Young-thug-od-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "82 ContributorsOD Lyrics[Intro]\nUh, OD'ing on drugs\nAyy, bring me a lighter\nSomebody, please\n(Wheezy Beats)\n\n[Chorus]\nI think I'm OD'ing on drugs\nNigga, I started a fight inside the club\nNever switched up on my brew I'm not a dub\nI got a foreign car outside sittin' on some dubs\nBaby said she gon' help me out with my problems\nI'm still screamin' fuck the crime stoppers\nYes I'll hit you up, go do a dub for my partner\nYeah, ridin' in the back just like a scrub for my partner\nKnuck if you buck for my partner (Yeah, yeah, yeah)\nYeah, I show love for my partner (Yeah, yeah)\nI'ma fuck a ho when I leave the club just for my partner (Yeah, yeah, yeah, yeah)\nI'ma pull off and take off on my plug that's for my partner\nI can live life on a boat like Nautica with my partner (Yeah, yeah, yeah, yeah)\nThat's my motherfuckin' partner in crime, baby\nAnd you know I'm never stoppin' the time, lil' baby (Yeah, yeah, yeah, yeah)\nAnd you know it's not a doubt in my mind, lil' baby (Yeah, yeah, yeah, yeah, yeah)\nAnd you know I'm doin' it for the slimes, baby\n\n[Verse 1]\nThugga, I'm a big beast, yeah, wilderbeast\nYou can't see me, I'm tired of these streets\nI will remain an OG when deceased (Ah, yeah)\nR.I.P. Mike Brown, fuck the Cops (Yeah)\nScreamin' R.I.P. Bennie shootin' up a block (Grra)\nNo clock, lil' nigga, sit back and watch\nMe move all of these chickens, lil' nigga, no Popeye's (Damn)\nWhen my palm go to itchin', boy, I get missin' (Yeah)\nWhippin' up fake dope in Big Duck's kitchen (Ah, woop)\nI swear to God I hurt to whip it, ah (Yeah)\nDirty Cup for a nigga sippin', oh\nWhen I get through with that 4 a nigga trippin', woah\nI changed my shoes to Givenchy's, ain't no trippin' no\nI'm a young rich nigga, flip a flippin' O\nS-L-I-M-E, yeah, I wipe your nose\nWipe it, wipe it, wipe it\nI get that pussy and I just demolish, 'molish, 'molish (Yeah)\nDivide it, all in they mouth no trident\nNo baby, but I wipe it, I kiss it and good night it\nI make love and I fight it\nPrecise and yes it's righteous\nMy luck and how and why can't I fuck it all night\nGot sticks and I'm never scared, never frightened (No)\nKeep 'em all out your business, they just here because of your riches\nYou keep these ones flyin', no biscuit\nThis money I'm gettin', it got me\nYou might also like[Chorus]\nOD'ing on drugs\nNigga, I started a fight inside the club\nNever switched up on my brew I'm not a dub\nI got a foreign car outside sittin' on some dubs\nBaby said she gon' help me out with my problems\nI'm still screamin' fuck the crime stoppers\nYes I'll hit you up, go do a dub for my partner\nYeah, ridin' in the back just like a scrub for my partner\nKnuck if you buck for my partner (Yeah, yeah, yeah)\nYeah, I show love for my partner (Yeah, yeah)\nI'ma fuck a ho when I leave the club just for my partner (Yeah, yeah, yeah, yeah)\nI'ma pull off and take off on my plug that's for my partner\nI can live life on a boat like Nautica with my partner (Yeah, yeah, yeah, yeah)\nThat's my motherfuckin' partner in crime, baby\nAnd you know I'm never stoppin' the time, lil' baby (Yeah, yeah, yeah, yeah)\nAnd you know it's not a doubt in my mind, lil' baby (Yeah, yeah, yeah, yeah, yeah)\nAnd you know I'm doin' it for the slimes, baby\n\n[Verse 2]\nDolly White, yeah, I do it for you, Slime\nDora, yeah, I do it for you, Slime\nBig Duck, yeah, I do it for you, Slime\nHey, Jeff, I do it for you, Slime\nJunior, I do it for you, Keisha, I do it for you, Bennie, I do it for you\nEmsley, I do it for you, Sheen, I do it for you, Gregory, I do it for you\nKat, I do it for you, Unfoonk, I do it for you\nI'll survive in a zoo\nI take care of my kids, no matter what else I do\nRocko, I do, I do\nYeah, and that on God that it's true\nMy niggas, they was some clothes bandits\nNow they dealin' with bad bitches and they know they have it\nAnd they show they have it, bitch, we photograph it\nI might put mud on my truck and hop out clean and dandy\nFree my lil' brother Bean, yeah, you know, a savage\nYeah, but he don't wrestle, no Randy\nPussy clean, she don't need panties\nI see right through that bitch like she panoramic\nYeah, I treat that beef just like fuckin' manwich\nI'm, I'm screamin' 30, fuck a blue jean bandit\nWe don't care about no jeans, we just want that cash in\nSo we stole the truck and smashed it 'cause tragic when I'm\n[Chorus]\nOD'ing on drugs\nNigga, I started a fight inside the club\nNever switched up on my brew I'm not a dub\nI got a foreign car outside sittin' on some dubs\nBaby said she gon' help me out with my problems\nI'm still screamin' fuck the crime stoppers\nYes I'll hit you up, go do a dub for my partner\nYeah, ridin' in the back just like a scrub for my partner\nKnuck if you buck for my partner (Yeah, yeah, yeah, yeah)\nYeah, I show love for my partner (Yeah, yeah)\nI'ma fuck a ho when I leave the club just for my partner (Yeah, yeah, yeah, yeah)\nI'ma pull off and take off on my plug that's for my partner\nI can live life on a boat like Nautica with my partner (Yeah, yeah, yeah, yeah)\nThat's my motherfuckin' partner in crime, baby\nAnd you know I'm never stoppin' the time, lil' baby (Yeah, yeah, yeah, yeah)\nAnd you know it's not a doubt in my mind, lil' baby (Yeah, yeah, yeah, yeah, yeah)\nAnd you know I'm doin' it for the slimes, baby38Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/791921",
+    "artist_names": "Young Thug",
+    "full_title": "Numbers by\u00a0Young\u00a0Thug",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 791921,
+    "instrumental": false,
+    "lyrics_owner_id": 987807,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725247010,
+    "path": "/Young-thug-numbers-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 28,
+    "relationships_index_url": "https://genius.com/Young-thug-numbers-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 153773
+    },
+    "title": "Numbers",
+    "title_with_featured": "Numbers",
+    "updated_by_human_at": 1725247010,
+    "url": "https://genius.com/Young-thug-numbers-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "85 ContributorsNumbers Lyrics[Intro]\nYeah\nThugger Thugger\nGot my brodie London in this motherfucker, man\nI'm tellin' ya this beat hard as... this song hard as fuck, listen, bro, uh\nI go up, up, up and away\nAnd I got old hundreds, they wrinkled like a Shar Pei (What?)\nPlus I'm the realest nigga inside the A (What?)\nYeah\n\n[Chorus]\nAnd them boys in Atlanta, they don't play, yeah (Uh)\nAnd them boys from Atlanta tote them K's, yeah (Yeah)\nAnd them boys from Atlanta got bananas for these monkey niggas (What?)\nI got plenty ammo for your bumblin', nigga\nAmmo for these pussy motherfuckas (Yeah)\nRun up, I swear to God I want tears from your mother (Yeah)\nFuck nigga trippin', I'll get prison and fuck your father (What?)\nI'ma tell 'em one time, ain't goin' (Puss) farther\nI'm doin' numbers (No, no)\n\n[Verse 1]\nI got bands in the bando (No no), and I'm beatin' David Banner (Yeah)\nAnd I'm smokin' on cabana (Yeah), leanin', movin' slow as grandma (Racks)\nMotor runnin', spent them commas, now it's thunder (What?)\nCount a hundred, want a hundred more, that's hunger (Hunger)\nYeah, baby, Thugger Thugger hungry, yes, I'm hungry\nYoung Thugger got the munchies (Yeah)\nAll my diamonds come in yellow like a Funyun (Yeah)\nYeah, all my gold made 'em sick and they can vomit (Guh)\nYeah, yeah, yeah, yeah... pussy nigga know they can vomit\nI'm growin' green, me and Chi-Chi, no pet\nBut (What?), I'm chasin' dreams, free Meek Milly\nYou might also like[Chorus]\nAnd them boys in Atlanta, they (Hey) don't play (Hey), yeah (Hey)\nAnd them boys from Atlanta tote them K's, yeah (Tote them k's yeah)\nAnd them boys from Atlanta got bananas for these monkey niggas (What?)\nI got plenty ammo for your bumblin', nigga (And what else, and what?)\nAmmo for these pussy motherfuckas\nRun up I swear to God I want tears from your mother (Yeah)\nFuck nigga trippin', I'll get prison and fuck your father (What?)\nI'ma tell 'em one time, ain't goin' farther (Ain't tellin' 'em)\nI'm doin' numbers (Yeah, numbers, numbers, numbers)\n\n[Verse 2]\nI'ma tell 'em one time (Swear, swear, swear, swear)\nYeah, I can read his mind\nPop, pop, pop, pop, pop, pop, then start ridin' (Skrrt, gah, gah)\nBrand new 24's, bitch on climb (Woah, skrr)\nYou's a busta, mothafucka rhymes\nNo sticky fingers, no porcupine\nHey (Yee), genius, I'll chase the day\nWait (Sheesh), let me pick up his remains\nHey (Sheesh), let them gators get their prey\n(Brr, brr, brr), Hold up, hold up, wait\n\n[Chorus]\nAnd them boys in Atlanta, they don't play, yeah\nAnd them boys from Atlanta tote them K's, yeah\nAnd them boys from Atlanta got bananas for these monkey niggas\nI got plenty ammo for your bumblin', nigga\nAmmo for these pussy motherfuckas\nRun up, I swear to God I want tears from your mother\nFuck nigga trippin', I'll get prison and fuck your father\nI'ma tell 'em one time, ain't goin' farther\nI'm doin' numbers28Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/732423",
+    "artist_names": "Young Thug",
+    "full_title": "Just Might Be by\u00a0Young\u00a0Thug",
+    "header_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "header_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "id": 732423,
+    "instrumental": false,
+    "lyrics_owner_id": 282633,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720098161,
+    "path": "/Young-thug-just-might-be-lyrics",
+    "primary_artist_names": "Young Thug",
+    "pyongs_count": 48,
+    "relationships_index_url": "https://genius.com/Young-thug-just-might-be-sample",
+    "release_date_components": {
+     "year": 2015,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2015",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2015",
+    "song_art_image_thumbnail_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/271db73c3867ea37008e1a0a309aa195.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 263954
+    },
+    "title": "Just Might Be",
+    "title_with_featured": "Just Might Be",
+    "updated_by_human_at": 1723384352,
+    "url": "https://genius.com/Young-thug-just-might-be-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "slug": "Young-thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/af73489f224bbca1e097bd3f398dbfc1.760x760x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/8bfccc4f319e1216d3bea127b77bcd97.760x760x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "slug": "Young-thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    ],
+    "artist": "Young Thug",
+    "lyrics": "59 ContributorsJust Might Be Lyrics[Intro]\nYeah, ever gon' see, yeah\n(Wheezy Beats)\nEver gon' see, yeah, I promise!\nEver gon' see, yeah, I promise! I\nAyy, man get your mutherfuckin' hands away from my syrup man\nLivin' life bro, I'm happy\nNothin\u2019 more, nothin\u2019 less\n\n[Chorus]\nBaby, you know that I might be the realest lil' nigga you ever gon' see (You know it)\nBaby, you know that I might be the trillest lil' nigga that you wanna be (Woah)\nBaby, you know that I might be the richest lil' nigga you ever could treat (Rich)\nAnd you know that I might just scoop that lil' bitch up off of her feet (Really rich)\nAll of these niggas they know that they fallin' and everyone wanna be me (Yeah)\nAll of these bitches don't wanna be cheated on but all these bitches wan' cheat (Yeah)\nAll of these bitches wan' be the new wifey but all of these bitches be cheatin' (Bitch)\nAll of these rappers I swear they watering down and I'm the chlorine, ah\n\n[Verse 1]\nFeed me, feed me (Yeah)\nThese pussy niggas tighter than a wedgie, weegee (Woo)\nI live life like a sniper, they can't see me, see me (Pew)\nHer heart like an old diaper, I can't leave it, leave it (Ew)\nI'm drinkin' on this motherfuckin' mud (Yeah)\nOkay, my fuckin' back pocket fat like a butt (Yeah)\nI swear I'm a blood, I can never be your cuz (No)\nYou can roger that like my motherfuckin' buzz (Losie!)\nMmm, bubbler, hey, hey (What?)\nI'll bippoty-bop, then stick it and fade (Pew, pew pew)\nI keep some coke and the rocks on me everyday (Everyday)\nI got a bitch with a yacht that's sittin' in the bay (Yeah)\nCome here, tempt me if you wan' go on a date (Yeah)\nI'll make bail within' the first 48 (Yeah)\nI'll give her the stick\nShe gon' get a clip, bigger than a porn star dick\nAnd I need new castin' for a porn star clip\nYou might also like[Chorus]\nBaby, you know that I might be the realest lil' nigga you ever gon' see (You Know It)\nBaby, you know that I might be the trillest lil' nigga that you wanna be (Woah)\nBaby, you know that I might be the richest lil' nigga you ever could treat (Rich)\nAnd you know that I might just scoop that lil' bitch up off of her feet (Really rich)\nAll of these niggas they know that they fallin' and everyone wanna be me (Yeah)\nAll of these bitches don't wanna be cheated on but all these bitches wan' cheat (Yeah)\nAll of these bitches wan' be the new wifey but all of these bitches be cheatin' (Bitch)\nAll of these rappers I swear they watering down and I'm the chlorine, ah\nChlorine, I'm the...\n\n[Interlude]\nThat's called breathin', that's how you let that bitch breathe fool\nUh, uh\nUhh\nHa, ha, ha\n\n[Verse 2]\nOkay, you know all my diamonds got no flaws (What?)\nMomma move to 85 north, not 85 south (Diamonds)\nI think these hoes piranhas excluding my baby momma (I swear)\nI take care my daddy momma by pullin' up with them bundles (Skr)\n(rrrt) If I ain't treat you good, lil' baby, just know it's karma (Ha)\nYou did my nigga wrong, I know it, it was last summer (Yeah)\nLyin' to me, tellin' me I'm the bomb like Osama (Boom)\nI wish I could spend 50 bands on tour for grandmama (I swear)\nI'll crack that nigga head with a bottle\nI could never call, not a fed, not a cop (Brr)\nNiggas said I'm the best and I said, \"Do y'all\"\nYSL scream \"fuck the rest\" 'cause we got right now\nNiggas asked me \"Am I sure?\", and the Bentley said \"Yeah\"\nThat little bitch ask for a purse and you know I said \"Yeah\"\nShe gon' act just like a clerk when them feds in there\nShe might act like she know Bird when them players in there, Yeah\n[Chorus]\nBaby, you know that I might be the realest lil' nigga you ever gon' see (You know it)\nBaby, you know that I might be the trillest lil' nigga that you wanna be (Woah)\nBaby, you know that I might be the richest lil' nigga you ever could treat (Rich)\nAnd you know that I might just scoop that lil' bitch up off of her feet (Really rich)\nAll of these niggas they know that they fallin' and everyone wanna be me (Yeah)\nAll of these bitches don't wanna be cheated on but all these bitches wan' cheat (Yeah)\nAll of these bitches wan' be the new wifey but all of these bitches be cheatin' (Bitch)\nAll of these rappers I swear they watering down and I'm the chlorine, ah\n\n[Outro]\nI'm the chlorine, bitch\nYeah, I'm 'bout to clean some motherfuckers, fool\nYou know what I'm sayin\nI got on flue but you know I'm still drippin'\nYou know what I'm sayin' oh\nOh, ah, oh, ah48Embed"
+   }
+  }
+ ]
+}
