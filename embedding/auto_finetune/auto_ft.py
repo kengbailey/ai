@@ -24,10 +24,10 @@ def load_corpus(files):
     print(f"Parsed {len(nodes)} nodes")
     return nodes
 
-def prepare_documents(TRAIN_FILES, VAL_FILES):
+def prepare_documents(TRAIN_FILES, EVAL_FILES):
     train_nodes = load_corpus(TRAIN_FILES)
-    val_nodes = load_corpus(VAL_FILES)
-    return train_nodes, val_nodes
+    eval_nodes = load_corpus(EVAL_FILES)
+    return train_nodes, eval_nodes
 
 def messages_to_prompt(messages):
     prompt = ""
@@ -88,11 +88,11 @@ def generate_qa_pairs(train_nodes, eval_nodes):
     return train_dataset, eval_dataset
 
 
-def finetune_embedding_model(train_dataset, eval_dataset):
+def finetune_embedding_model(train_dataset, eval_dataset, model_id):
     finetune_engine = SentenceTransformersFinetuneEngine(
         train_dataset,
-        model_id="BAAI/bge-small-en", # TODO: pass in model id from argument or config file 
-        model_output_path="bge_ft_SL", # TODO: pass in output path from argument or config file
+        model_id=model_id, 
+        model_output_path="ft_embed_model", # TODO: pass in output path from argument or config file
         val_dataset=eval_dataset,
     )
     finetune_engine.finetune()
@@ -139,12 +139,12 @@ def evaluate_gold_standard_model(eval_dataset):
     hit_rate_ada = df_ada["is_hit"].mean()
     return hit_rate_ada 
 
-def evaluate_pretrained_model(eval_dataset):
-    bge = "local:BAAI/bge-small-en" # TODO: get model name from argument 
-    bge_val_results = evaluate(eval_dataset, bge) 
-    df_bge = pd.DataFrame(bge_val_results)
-    hit_rate_bge = df_bge["is_hit"].mean()
-    return hit_rate_bge
+def evaluate_pretrained_model(eval_dataset, model_id):
+    pt_model = f"local:{model_id}" # TODO: get model name from argument 
+    pt_model_eval_results = evaluate(eval_dataset, pt_model) 
+    df_pt_model = pd.DataFrame(pt_model_eval_results)
+    hit_rate_pt = df_pt_model["is_hit"].mean()
+    return hit_rate_pt
 
 def evaluate_finetuned_model(eval_dataset, embed_model):
     val_results_finetuned = evaluate(eval_dataset, embed_model)
@@ -166,15 +166,30 @@ if __name__ == "__main__":
     # eval_dataset = EmbeddingQAFinetuneDataset.from_json("eval_dataset.json")
 
     # finetune model
-    ft_embed_model = finetune_embedding_model(train_dataset, eval_dataset)
+    model_ids = [
+        "BAAI/bge-small-en",
+        "BAAI/bge-small-en-v1.5",
+        "BAAI/bge-base-en-v1.5",
+        "BAAI/bge-large-en-v1.5",
+        "sentence-transformers/all-mpnet-base-v2"
+    ]
+    ft_embed_model = finetune_embedding_model(train_dataset, eval_dataset, model_ids[4])
 
     # evaluate model
     hit_rate_ada = evaluate_gold_standard_model(eval_dataset)
-    hit_rate_bge = evaluate_pretrained_model(eval_dataset)
+    hit_rate_bge = evaluate_pretrained_model(eval_dataset, model_ids[4])
     hit_rate_ft = evaluate_finetuned_model(eval_dataset, ft_embed_model)
     print(f"Hit rate for Ada: {hit_rate_ada}")
     print(f"Hit rate for BGE: {hit_rate_bge}")
     print(f"Hit rate for Finetuned: {hit_rate_ft}")
 
 
+'''
+BAAI/bge-large-en-v1.5 	1024 	512 	English model
+BAAI/bge-base-en-v1.5 	768 	512 	English model
+BAAI/bge-small-en-v1.5 	384 	512 	English model
 
+sentence-transformers/all-mpnet-base-v2
+
+
+'''
