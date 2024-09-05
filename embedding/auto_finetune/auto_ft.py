@@ -1,28 +1,20 @@
-import json
 from llama_index.core import SimpleDirectoryReader
 from llama_index.core.node_parser import SentenceSplitter
-from llama_index.core.schema import MetadataMode
 import torch
 from transformers import BitsAndBytesConfig
 from llama_index.core.prompts import PromptTemplate
 from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.finetuning import generate_qa_embedding_pairs
 from llama_index.finetuning import SentenceTransformersFinetuneEngine
+from llama_index.core.evaluation import EmbeddingQAFinetuneDataset
 from llama_index.embeddings.openai import OpenAIEmbedding
 from llama_index.core import VectorStoreIndex
 from llama_index.core.schema import TextNode
 from tqdm.notebook import tqdm
 import pandas as pd
+import warnings
 
-
-
-
-# Prepare train/eval data 
-TRAIN_FILES = ["./Scaling_Laws_for_Downstream_Task_Performance_of_Large_Language_Models.pdf"] # TODO: pass in from argument or config file 
-VAL_FILES = ["./Unraveling_the_Mystery_of_Scaling_Laws.pdf"] # TODO: pass in from argument or config file
-
-TRAIN_CORPUS_FPATH = "./train_corpus.json" # TODO: pass in from argument or config file
-VAL_CORPUS_FPATH = "./val_corpus.json" # TODO: pass in from argument or config file
+warnings.filterwarnings('ignore')
 
 def load_corpus(files):
     reader = SimpleDirectoryReader(input_files=files)
@@ -32,17 +24,10 @@ def load_corpus(files):
     print(f"Parsed {len(nodes)} nodes")
     return nodes
 
-train_nodes = load_corpus(TRAIN_FILES)
-val_nodes = load_corpus(VAL_FILES)
-
-
-# Generate synthetic Q/A pairs 
-quantization_conf = BitsAndBytesConfig(
-    load_in_4bit=True,
-    bnb_4bit_compute_dtype=torch.float16,
-    bnb_4bit_quant_type="nf4",
-    bnb_4bit_use_double_quant=True,
-)
+def prepare_documents(TRAIN_FILES, VAL_FILES):
+    train_nodes = load_corpus(TRAIN_FILES)
+    val_nodes = load_corpus(VAL_FILES)
+    return train_nodes, val_nodes
 
 def messages_to_prompt(messages):
     prompt = ""
@@ -65,16 +50,21 @@ def messages_to_prompt(messages):
 def huggingface_llm(model_name="HuggingFaceH4/zephyr-7b-beta",
                     tokenizer_name="HuggingFaceH4/zephyr-7b-beta",
                     context_window=3900,
-                    max_new_tokens=256,
-                    quantization_config = quantization_conf
+                    max_new_tokens=256
                    ):
+    quantization_conf = BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_compute_dtype=torch.float16,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_use_double_quant=True,
+    )
     llm = HuggingFaceLLM(
         model_name=model_name,
         tokenizer_name=tokenizer_name,
         query_wrapper_prompt=PromptTemplate("<|system|>\n</s>\n<|user|>\n{query_str}</s>\n<|assistant|>\n"),
         context_window=context_window,
         max_new_tokens=max_new_tokens,
-        model_kwargs={"quantization_config": quantization_config},
+        model_kwargs={"quantization_config": quantization_conf},
         # tokenizer_kwargs={},
         generate_kwargs={"temperature": 0.7, "top_k": 50, "top_p": 0.95},
         messages_to_prompt=messages_to_prompt,
@@ -83,30 +73,31 @@ def huggingface_llm(model_name="HuggingFaceH4/zephyr-7b-beta",
 
     return llm
 
-llm = huggingface_llm()
+def generate_qa_pairs(train_nodes, eval_nodes):
+    llm = huggingface_llm()
 
-train_dataset = generate_qa_embedding_pairs(
-    llm=llm, nodes=train_nodes, verbose=False
-)
-val_dataset = generate_qa_embedding_pairs(
-    llm=llm, nodes=val_nodes, verbose=False
-)
+    train_dataset = generate_qa_embedding_pairs(
+        llm=llm, nodes=train_nodes, verbose=False
+    )
+    eval_dataset = generate_qa_embedding_pairs(
+        llm=llm, nodes=eval_nodes, verbose=False
+    )
 
-train_dataset.save_json("train_dataset.json") # TODO: pass in from argument or config file 
-val_dataset.save_json("val_dataset.json") # TODO: pass in from argument or config file 
+    train_dataset.save_json("train_dataset.json") # TODO: pass in from argument or config file 
+    eval_dataset.save_json("eval_dataset.json") # TODO: pass in from argument or config file 
+    return train_dataset, eval_dataset
 
 
-# Finetune embedding model 
-finetune_engine = SentenceTransformersFinetuneEngine(
-    train_dataset,
-    model_id="BAAI/bge-small-en", # TODO: pass in model id from argument or config file 
-    model_output_path="bge_ft_SL", # TODO: pass in output path from argument or config file
-    val_dataset=val_dataset,
-)
-
-finetune_engine.finetune()
-
-embed_model = finetune_engine.get_finetuned_model()
+def finetune_embedding_model(train_dataset, eval_dataset):
+    finetune_engine = SentenceTransformersFinetuneEngine(
+        train_dataset,
+        model_id="BAAI/bge-small-en", # TODO: pass in model id from argument or config file 
+        model_output_path="bge_ft_SL", # TODO: pass in output path from argument or config file
+        val_dataset=eval_dataset,
+    )
+    finetune_engine.finetune()
+    embed_model = finetune_engine.get_finetuned_model()
+    return embed_model
 
 # Evaluate embedding model 
 def evaluate(
@@ -141,23 +132,49 @@ def evaluate(
         eval_results.append(eval_result)
     return eval_results
 
-ada = OpenAIEmbedding(api_key='sk-') # TODO: get from os env
-ada_val_results = evaluate(val_dataset, ada)
-df_ada = pd.DataFrame(ada_val_results)
-hit_rate_ada = df_ada["is_hit"].mean()
-hit_rate_ada 
+def evaluate_gold_standard_model(eval_dataset):
+    ada = OpenAIEmbedding(api_key='sk-') # TODO: get from os env
+    ada_val_results = evaluate(eval_dataset, ada)
+    df_ada = pd.DataFrame(ada_val_results)
+    hit_rate_ada = df_ada["is_hit"].mean()
+    return hit_rate_ada 
 
-bge = "local:BAAI/bge-small-en" # TODO: get model name from argument 
-bge_val_results = evaluate(train_dataset, bge)
-df_bge = pd.DataFrame(bge_val_results)
-hit_rate_bge = df_bge["is_hit"].mean()
-hit_rate_bge
+def evaluate_pretrained_model(eval_dataset):
+    bge = "local:BAAI/bge-small-en" # TODO: get model name from argument 
+    bge_val_results = evaluate(eval_dataset, bge) 
+    df_bge = pd.DataFrame(bge_val_results)
+    hit_rate_bge = df_bge["is_hit"].mean()
+    return hit_rate_bge
 
-val_results_finetuned = evaluate(val_dataset, embed_model)
-df_finetuned = pd.DataFrame(val_results_finetuned)
-hit_rate_finetuned = df_finetuned["is_hit"].mean()
-hit_rate_finetuned
+def evaluate_finetuned_model(eval_dataset, embed_model):
+    val_results_finetuned = evaluate(eval_dataset, embed_model)
+    df_finetuned = pd.DataFrame(val_results_finetuned)
+    hit_rate_finetuned = df_finetuned["is_hit"].mean()
+    return hit_rate_finetuned
 
-print(f"Hit rate for Ada: {hit_rate_ada}")
-print(f"Hit rate for BGE: {hit_rate_bge}")
-print(f"Hit rate for Finetuned: {hit_rate_finetuned}")
+if __name__ == "__main__":
+
+    TRAIN_FILES = ["./Scaling_Laws_for_Downstream_Task_Performance_of_Large_Language_Models.pdf"]
+    VAL_FILES = ["./Unraveling_the_Mystery_of_Scaling_Laws.pdf"] 
+    
+    # prepare documents
+    train_nodes, eval_nodes = prepare_documents(TRAIN_FILES, VAL_FILES)
+
+    # generate synthetic data
+    train_dataset, eval_dataset = generate_qa_pairs(train_nodes, eval_nodes)
+    # train_dataset = EmbeddingQAFinetuneDataset.from_json("train_dataset.json")
+    # eval_dataset = EmbeddingQAFinetuneDataset.from_json("eval_dataset.json")
+
+    # finetune model
+    ft_embed_model = finetune_embedding_model(train_dataset, eval_dataset)
+
+    # evaluate model
+    hit_rate_ada = evaluate_gold_standard_model(eval_dataset)
+    hit_rate_bge = evaluate_pretrained_model(eval_dataset)
+    hit_rate_ft = evaluate_finetuned_model(eval_dataset, ft_embed_model)
+    print(f"Hit rate for Ada: {hit_rate_ada}")
+    print(f"Hit rate for BGE: {hit_rate_bge}")
+    print(f"Hit rate for Finetuned: {hit_rate_ft}")
+
+
+
