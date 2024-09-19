@@ -20,7 +20,7 @@ def load_corpus(files):
     reader = SimpleDirectoryReader(input_files=files)
     docs = reader.load_data()
     parser = SentenceSplitter()
-    nodes = parser.get_nodes_from_documents(docs, show_progress=True)
+    nodes = parser.get_nodes_from_documents(docs, show_progress=False)
     print(f"Parsed {len(nodes)} nodes")
     return nodes
 
@@ -77,10 +77,10 @@ def generate_qa_pairs(train_nodes, eval_nodes):
     llm = huggingface_llm()
 
     train_dataset = generate_qa_embedding_pairs(
-        llm=llm, nodes=train_nodes, verbose=False
+        llm=llm, nodes=train_nodes, verbose=False, num_questions_per_chunk=4
     )
     eval_dataset = generate_qa_embedding_pairs(
-        llm=llm, nodes=eval_nodes, verbose=False
+        llm=llm, nodes=eval_nodes, verbose=False, num_questions_per_chunk=4
     )
 
     train_dataset.save_json("train_dataset.json") # TODO: pass in from argument or config file 
@@ -161,9 +161,9 @@ if __name__ == "__main__":
     train_nodes, eval_nodes = prepare_documents(TRAIN_FILES, VAL_FILES)
 
     # generate synthetic data
-    train_dataset, eval_dataset = generate_qa_pairs(train_nodes, eval_nodes)
-    # train_dataset = EmbeddingQAFinetuneDataset.from_json("train_dataset.json")
-    # eval_dataset = EmbeddingQAFinetuneDataset.from_json("eval_dataset.json")
+    # train_dataset, eval_dataset = generate_qa_pairs(train_nodes, eval_nodes)
+    train_dataset = EmbeddingQAFinetuneDataset.from_json("train_dataset.json")
+    eval_dataset = EmbeddingQAFinetuneDataset.from_json("eval_dataset.json")
 
     # finetune model
     model_ids = [
@@ -173,23 +173,52 @@ if __name__ == "__main__":
         "BAAI/bge-large-en-v1.5",
         "sentence-transformers/all-mpnet-base-v2"
     ]
-    ft_embed_model = finetune_embedding_model(train_dataset, eval_dataset, model_ids[4])
+    ft_embed_model = finetune_embedding_model(train_dataset, eval_dataset, model_ids[1])
 
     # evaluate model
     hit_rate_ada = evaluate_gold_standard_model(eval_dataset)
-    hit_rate_bge = evaluate_pretrained_model(eval_dataset, model_ids[4])
+    hit_rate_bge = evaluate_pretrained_model(eval_dataset, model_ids[1])
     hit_rate_ft = evaluate_finetuned_model(eval_dataset, ft_embed_model)
     print(f"Hit rate for Ada: {hit_rate_ada}")
-    print(f"Hit rate for BGE: {hit_rate_bge}")
+    print(f"Hit rate for Pretrained: {hit_rate_bge}")
     print(f"Hit rate for Finetuned: {hit_rate_ft}")
 
 
 '''
 BAAI/bge-large-en-v1.5 	1024 	512 	English model
+Hit rate for Ada: 0.9347826086956522                                                                                                                                                                                        | 0/1 [00:00<?, ?it/s] 
+Hit rate for Pretrained: 0.8913043478260869
+Hit rate for Finetuned: 0.9782608695652174
+---
+Hit rate for Ada: 0.8131868131868132                                                                                                                                                                                        | 0/1 [00:00<?, ?it/s] 
+Hit rate for Pretrained: 0.7912087912087912
+Hit rate for Finetuned: 0.945054945054945
+
 BAAI/bge-base-en-v1.5 	768 	512 	English model
+Hit rate for Ada: 0.9347826086956522                                                                                                                                                                                        | 0/1 [00:00<?, ?it/s] 
+Hit rate for Pretrained: 0.8260869565217391
+Hit rate for Finetuned: 0.9565217391304348
+---
+Hit rate for Ada: 0.8131868131868132                                                                                                                                                                                        | 0/1 [00:00<?, ?it/s] 
+Hit rate for Pretrained: 0.7802197802197802
+Hit rate for Finetuned: 0.9120879120879121
+
 BAAI/bge-small-en-v1.5 	384 	512 	English model
+Hit rate for Ada: 0.9347826086956522                                                                                                                                                                                        | 0/1 [00:00<?, ?it/s] 
+Hit rate for Pretrained: 0.9130434782608695
+Hit rate for Finetuned: 0.9565217391304348
+---
+Hit rate for Ada: 0.8131868131868132                                                                                                                                                                                        | 0/1 [00:00<?, ?it/s] 
+Hit rate for Pretrained: 0.7582417582417582
+Hit rate for Finetuned: 0.8791208791208791
 
 sentence-transformers/all-mpnet-base-v2
-
+Hit rate for Ada: 0.9347826086956522                                                                                                                                                                                        | 0/1 [00:00<?, ?it/s] 
+Hit rate for Pretrained: 0.8260869565217391
+Hit rate for Finetuned: 0.9782608695652174
+--
+Hit rate for Ada: 0.8131868131868132                                                                                                                                                                                        | 0/1 [00:00<?, ?it/s] 
+Hit rate for Pretrained: 0.7252747252747253
+Hit rate for Finetuned: 0.9120879120879121
 
 '''
